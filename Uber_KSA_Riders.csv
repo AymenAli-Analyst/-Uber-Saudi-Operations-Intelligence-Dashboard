@@ -1,0 +1,801 @@
+Rider_ID,Full_Name,Gender,Date_of_Birth,Nationality,City,Phone,Email,Registration_Date,Status,Last_Ride_Date,Total_Rides,Total_Spent_SAR,Average_Rating_Given,Preferred_Payment_Method,Account_Tier,Women_Preferred_Rider
+RDR000001,Noura Al-Saleh,Female,11/27/1983,Egyptian,Dammam,519068358,noura.alsaleh6@email.com,6/2/2021,Active,3/10/2023,758,20865.66,4.23,Credit Card,Diamond,Yes
+RDR000002,Joud Al-Mansour,Female,4/13/1988,Yemeni,Taif,570273791,joud.almansour20@email.com,10/16/2025,Active,3/10/2023,142,5820.63,4.26,Cash,Gold,Yes
+RDR000003,Layan Al-Hassan,Female,1/9/1996,Yemeni,Dhahran,521882280,layan.alhassan22@email.com,10/20/2022,Active,3/10/2023,687,24880.57,4.84,Mada,Diamond,Yes
+RDR000004,Reem Al-Jasser,Female,11/20/1982,Pakistani,Jeddah,535420283,reem.aljasser97@email.com,2/27/2021,Active,3/10/2023,555,16247.66,4.37,Credit Card,Diamond,No
+RDR000005,Turki Al-Rashid,Male,7/15/1988,Saudi,Dammam,581611045,turki.alrashid78@email.com,4/22/2021,Active,3/10/2023,723,17795.15,4.76,Cash,Diamond,No
+RDR000006,Mubarak Al-Rashid,Male,5/1/1991,Saudi,Khobar,522217180,mubarak.alrashid15@email.com,11/26/2023,Active,3/10/2023,25,1109.84,4.79,Apple Pay,Silver,No
+RDR000007,Waleed Al-Ghamdi,Male,1/9/1978,Saudi,Mecca,517907267,waleed.alghamdi79@email.com,11/12/2021,Active,3/10/2023,158,6925.72,3.96,Cash,Platinum,No
+RDR000008,Mohammed Al-Qahtani,Male,11/23/1996,Jordanian,Dammam,526235817,mohammed.alqahtani7@email.com,5/17/2023,Active,3/10/2023,146,3077.21,4.12,Apple Pay,Gold,No
+RDR000009,Mubarak Al-Khalid,Male,8/27/1983,Jordanian,Abha,518785652,mubarak.alkhalid62@email.com,4/27/2023,Active,3/10/2023,276,4379.35,3.59,Cash,Platinum,No
+RDR000010,Mohammed Al-Khalifa,Male,10/31/2002,Saudi,Abha,586268638,mohammed.alkhalifa53@email.com,7/28/2025,Active,3/10/2023,253,7180.01,4.64,Mada,Platinum,No
+RDR000011,Sultan Al-Turki,Male,3/14/1988,Saudi,Abha,510134359,sultan.alturki60@email.com,11/19/2020,Active,3/10/2023,551,24152.22,4.93,Cash,Diamond,No
+RDR000012,Dana Al-Saud,Female,9/13/1992,Yemeni,Riyadh,538555376,dana.alsaud75@email.com,5/29/2024,Active,3/10/2023,257,10336.68,4.76,Cash,Platinum,Yes
+RDR000013,Abdullah Al-Saleh,Male,2/1/1989,Saudi,Jeddah,591932582,abdullah.alsaleh65@email.com,6/8/2023,Active,3/10/2023,144,6296.04,4.59,Apple Pay,Gold,No
+RDR000014,Joud Al-Farsi,Female,7/28/1981,Egyptian,Taif,512130654,joud.alfarsi89@email.com,1/23/2022,Active,3/10/2023,330,6273.88,4.01,Cash,Diamond,No
+RDR000015,Fatima Al-Saud,Female,4/29/1984,Saudi,Mecca,597120361,fatima.alsaud84@email.com,8/20/2023,Active,3/10/2023,714,12370.55,4.55,Cash,Diamond,Yes
+RDR000016,Reem Al-Sulaiman,Female,2/1/2008,Saudi,Dhahran,572101540,reem.alsulaiman48@email.com,9/28/2025,Active,3/10/2023,182,7841.91,4.76,Mada,Platinum,Yes
+RDR000017,Mohammed Al-Khalifa,Male,7/18/1998,Saudi,Khobar,576277877,mohammed.alkhalifa47@email.com,2/23/2021,Active,3/10/2023,629,10129.34,4.44,Mada,Diamond,No
+RDR000018,Samar Al-Saud,Female,10/25/2000,Pakistani,Medina,536007403,samar.alsaud85@email.com,6/11/2023,Active,3/10/2023,285,10591.87,4.35,Cash,Platinum,No
+RDR000019,Abdullah Al-Rumaih,Male,2/28/1996,Saudi,Mecca,513102778,abdullah.alrumaih89@email.com,9/24/2019,Active,3/10/2023,584,20633.91,4.78,Cash,Diamond,No
+RDR000020,Anoud Al-Saud,Female,3/4/1996,Saudi,Dhahran,579564413,anoud.alsaud60@email.com,8/1/2019,Active,3/10/2023,331,9886.06,4.15,Cash,Diamond,Yes
+RDR000021,Hassan Al-Qahtani,Male,6/14/1993,Saudi,Dammam,586748329,hassan.alqahtani4@email.com,9/17/2023,Active,3/10/2023,324,14485.37,3.51,Debit Card,Diamond,No
+RDR000022,Badr Al-Harbi,Male,2/16/2004,Saudi,Medina,574420002,badr.alharbi56@email.com,3/17/2021,Active,3/10/2023,319,12518.13,3.59,Mada,Diamond,No
+RDR000023,Wafa Al-Mahmoud,Female,2/25/1985,Saudi,Jeddah,519785926,wafa.almahmoud77@email.com,4/23/2024,Active,3/10/2023,349,11721.86,4.75,Apple Pay,Diamond,No
+RDR000024,Reem Al-Mutairi,Female,9/7/2005,Indian,Riyadh,517353632,reem.almutairi39@email.com,5/17/2019,Active,3/10/2023,711,23692.06,3.6,Debit Card,Diamond,Yes
+RDR000025,Khalid Al-Jasser,Male,1/3/1998,Filipino,Riyadh,598546660,khalid.aljasser80@email.com,4/22/2022,Active,3/10/2023,412,6311.1,3.64,Cash,Diamond,No
+RDR000026,Anoud Al-Anazi,Female,2/5/1988,Pakistani,Tabuk,554049408,anoud.alanazi76@email.com,12/11/2025,Active,3/10/2023,667,13856.55,4.91,Credit Card,Diamond,Yes
+RDR000027,Faisal Al-Mazrou,Male,7/9/1988,Saudi,Mecca,542635373,faisal.almazrou18@email.com,9/15/2024,Active,3/10/2023,432,16809.45,4.22,Cash,Diamond,No
+RDR000028,Nasser Al-Saleh,Male,4/14/1982,Pakistani,Tabuk,529545414,nasser.alsaleh19@email.com,11/21/2023,Active,3/10/2023,668,19429.26,4.63,Apple Pay,Diamond,No
+RDR000029,Jawaher Al-Turki,Female,9/19/1985,Pakistani,Riyadh,517329266,jawaher.alturki55@email.com,10/21/2024,Active,3/10/2023,695,17593.57,3.72,Debit Card,Diamond,No
+RDR000030,Abdullah Al-Rajhi,Male,7/9/1982,Filipino,Medina,555051587,abdullah.alrajhi79@email.com,5/2/2024,Active,3/10/2023,479,11490.71,4.4,Apple Pay,Diamond,No
+RDR000031,Dana Al-Dosari,Female,2/19/1998,Indian,Taif,593741127,dana.aldosari28@email.com,6/22/2019,Active,3/10/2023,4,88.68,4.46,Mada,Silver,No
+RDR000032,Layan Al-Nasser,Female,5/30/1992,Saudi,Dhahran,584449447,layan.alnasser15@email.com,1/24/2021,Active,3/10/2023,7,134.9,4.04,Credit Card,Silver,Yes
+RDR000033,Sarah Al-Rashid,Female,8/24/2000,Egyptian,Medina,584424395,sarah.alrashid32@email.com,3/21/2021,Active,3/10/2023,225,4580.15,4.83,Mada,Platinum,Yes
+RDR000034,Rana Al-Rashid,Female,10/12/1994,Indian,Mecca,542232378,rana.alrashid48@email.com,4/2/2023,Active,3/10/2023,114,4478.45,4.01,Debit Card,Gold,No
+RDR000035,Huda Al-Zahrani,Female,9/5/1991,Egyptian,Mecca,590470126,huda.alzahrani55@email.com,6/19/2020,Active,3/10/2023,197,8728.96,4.3,Mada,Platinum,Yes
+RDR000036,Faisal Al-Zamil,Male,10/17/2002,Pakistani,Dammam,588394188,faisal.alzamil63@email.com,8/31/2020,Active,3/10/2023,55,1170.24,4.44,Apple Pay,Gold,No
+RDR000037,Khalil Al-Muhanna,Male,9/5/1991,Indian,Jeddah,579644554,khalil.almuhanna60@email.com,11/16/2020,Active,3/10/2023,770,15684.87,4.82,Cash,Diamond,No
+RDR000038,Aljohara Al-Mohammed,Female,4/27/1979,Saudi,Taif,537809859,aljohara.almohammed29@email.com,1/4/2022,Active,3/10/2023,654,27367.64,4.88,Cash,Diamond,Yes
+RDR000039,Thamer Al-Nasser,Male,1/17/1997,Pakistani,Dammam,521376149,thamer.alnasser18@email.com,10/7/2023,Active,3/10/2023,586,22003.53,3.74,Apple Pay,Diamond,No
+RDR000040,Nada Al-Sabah,Female,5/8/1989,Indian,Khobar,572753631,nada.alsabah56@email.com,7/31/2021,Active,3/10/2023,477,13007.11,4.27,Apple Pay,Diamond,No
+RDR000041,Hind Al-Mansour,Female,10/7/2004,Saudi,Riyadh,577345747,hind.almansour66@email.com,1/5/2021,Active,3/10/2023,272,8540.68,4.47,Apple Pay,Platinum,Yes
+RDR000042,Ghada Al-Dosari,Female,3/8/1978,Egyptian,Jeddah,543557605,ghada.aldosari39@email.com,10/20/2019,Active,3/10/2023,560,20919.55,3.8,Debit Card,Diamond,No
+RDR000043,Mona Al-Saif,Female,11/30/1992,Jordanian,Mecca,564459981,mona.alsaif75@email.com,2/2/2025,Active,3/10/2023,9,339.61,4.66,Apple Pay,Silver,Yes
+RDR000044,Thamer Al-Hassan,Male,6/10/1987,Sudanese,Medina,571928212,thamer.alhassan44@email.com,5/9/2021,Active,3/10/2023,529,20502.69,4.38,Cash,Diamond,No
+RDR000045,Mona Al-Anazi,Female,7/24/1982,Saudi,Dhahran,551013170,mona.alanazi95@email.com,5/8/2021,Active,3/10/2023,572,8746.13,3.55,Debit Card,Diamond,No
+RDR000046,Joud Al-Hassan,Female,5/7/1984,Saudi,Dhahran,553765651,joud.alhassan76@email.com,10/10/2023,Active,3/10/2023,414,6498.64,4.64,Mada,Diamond,No
+RDR000047,Sultan Al-Rajhi,Male,4/22/1999,Jordanian,Tabuk,518550910,sultan.alrajhi69@email.com,10/5/2025,Active,3/10/2023,588,15636.69,4.8,Cash,Diamond,No
+RDR000048,Rana Al-Rajhi,Female,3/11/1978,Pakistani,Tabuk,533841913,rana.alrajhi5@email.com,1/24/2024,Active,3/10/2023,312,12415.8,3.64,Credit Card,Diamond,No
+RDR000049,Turki Al-Fahad,Male,4/29/2005,Indian,Jeddah,517711235,turki.alfahad48@email.com,4/30/2023,Active,3/10/2023,239,7302.87,3.94,Cash,Platinum,No
+RDR000050,Rashed Al-Shammari,Male,5/19/2005,Jordanian,Dhahran,537713235,rashed.alshammari17@email.com,10/5/2020,Active,3/10/2023,133,5468.09,4.3,Cash,Gold,No
+RDR000051,Raghad Al-Ali,Female,9/29/1977,Indian,Mecca,546969062,raghad.alali26@email.com,10/8/2025,Active,3/10/2023,318,4841.01,4.38,Cash,Diamond,Yes
+RDR000052,Thamer Al-Saif,Male,9/17/1987,Filipino,Medina,515245871,thamer.alsaif95@email.com,11/23/2024,Active,3/10/2023,583,10338.39,4.82,Cash,Diamond,No
+RDR000053,Tala Al-Saleh,Female,10/3/1980,Sudanese,Dhahran,567992341,tala.alsaleh59@email.com,11/15/2025,Active,3/10/2023,180,4777.19,4.12,Debit Card,Platinum,No
+RDR000054,Thamer Al-Otaibi,Male,6/21/2005,Sudanese,Medina,539159454,thamer.alotaibi64@email.com,10/8/2020,Active,3/10/2023,644,17605.89,4.31,Mada,Diamond,No
+RDR000055,Meshari Al-Harbi,Male,2/15/1997,Saudi,Jeddah,577922837,meshari.alharbi6@email.com,8/28/2024,Active,3/10/2023,334,9640.92,4.12,Debit Card,Diamond,No
+RDR000056,Jasser Al-Mansour,Male,4/28/2003,Sudanese,Khobar,528318112,jasser.almansour42@email.com,6/24/2023,Active,3/10/2023,407,14289.31,3.56,Apple Pay,Diamond,No
+RDR000057,Wadha Al-Kaabi,Female,3/5/2002,Indian,Jeddah,547465789,wadha.alkaabi21@email.com,12/5/2019,Active,3/10/2023,249,5009.3,4.57,Cash,Platinum,Yes
+RDR000058,Turki Al-Baker,Male,1/29/1978,Saudi,Jeddah,530601948,turki.albaker57@email.com,12/29/2024,Active,3/10/2023,173,4453.47,3.62,Credit Card,Platinum,No
+RDR000059,Fahad Al-Zamil,Male,9/29/1978,Sudanese,Medina,598589123,fahad.alzamil14@email.com,12/16/2023,Active,3/10/2023,651,17393.78,4.72,Mada,Diamond,No
+RDR000060,Nada Al-Qahtani,Female,8/29/1991,Saudi,Tabuk,536841625,nada.alqahtani12@email.com,1/20/2019,Inactive,4/1/2021,99,1532.63,3.8,Debit Card,Gold,Yes
+RDR000061,Hamad Al-Fahad,Male,12/7/2000,Sudanese,Jeddah,532420703,hamad.alfahad6@email.com,6/22/2021,Active,3/10/2023,99,2719.57,4.7,Mada,Gold,No
+RDR000062,Rashed Al-Hamdan,Male,1/17/2003,Saudi,Abha,538693064,rashed.alhamdan14@email.com,2/15/2021,Active,3/10/2023,555,14262,4.09,Cash,Diamond,No
+RDR000063,Ahmed Al-Faisal,Male,12/22/1995,Yemeni,Khobar,593739701,ahmed.alfaisal48@email.com,2/19/2019,Active,3/10/2023,470,7669.54,3.83,Mada,Diamond,No
+RDR000064,Ziyad Al-Saleh,Male,10/9/2000,Saudi,Tabuk,522716400,ziyad.alsaleh77@email.com,8/8/2024,Active,3/10/2023,105,2596.72,4.57,Cash,Gold,No
+RDR000065,Maha Al-Rajhi,Female,9/3/2007,Filipino,Mecca,588522325,maha.alrajhi58@email.com,7/26/2022,Active,3/10/2023,683,18079.79,4.22,Apple Pay,Diamond,No
+RDR000066,Ahmed Al-Hassan,Male,3/30/1989,Saudi,Riyadh,593183615,ahmed.alhassan11@email.com,11/29/2025,Active,3/10/2023,128,2150.1,3.96,Mada,Gold,No
+RDR000067,Wadha Al-Baker,Female,8/21/1981,Indian,Medina,554116005,wadha.albaker18@email.com,9/13/2020,Active,3/10/2023,658,15360.22,3.56,Mada,Diamond,No
+RDR000068,Ziyad Al-Baker,Male,4/9/1984,Saudi,Riyadh,599255596,ziyad.albaker32@email.com,7/27/2021,Active,3/10/2023,340,13274.81,4.01,Debit Card,Diamond,No
+RDR000069,Mishal Al-Sabah,Male,4/29/2005,Saudi,Khobar,516993664,mishal.alsabah82@email.com,1/21/2021,Active,3/10/2023,7,313.32,3.6,Cash,Silver,No
+RDR000070,Nasser Al-Mutairi,Male,5/6/1989,Sudanese,Mecca,572689644,nasser.almutairi40@email.com,8/24/2025,Active,3/10/2023,210,4184.2,3.85,Credit Card,Platinum,No
+RDR000071,Ali Al-Anazi,Male,6/7/1999,Saudi,Mecca,574581639,ali.alanazi11@email.com,10/17/2025,Active,3/10/2023,293,12754.41,4.36,Mada,Platinum,No
+RDR000072,Yara Al-Mansour,Female,6/22/2001,Indian,Mecca,512658997,yara.almansour98@email.com,4/12/2024,Active,3/10/2023,518,13697.26,4.41,Cash,Diamond,No
+RDR000073,Lina Al-Jasser,Female,4/1/1983,Filipino,Mecca,574537834,lina.aljasser10@email.com,11/19/2021,Active,3/10/2023,314,7849.07,4.18,Cash,Diamond,No
+RDR000074,Sultan Al-Fahad,Male,4/26/1990,Jordanian,Riyadh,562968985,sultan.alfahad96@email.com,2/22/2019,Active,3/10/2023,748,19593.37,4.59,Cash,Diamond,No
+RDR000075,Shatha Al-Rumaih,Female,3/7/2001,Saudi,Jeddah,568558918,shatha.alrumaih33@email.com,8/2/2023,Active,3/10/2023,128,4881.68,4.08,Cash,Gold,No
+RDR000076,Wadha Al-Turki,Female,12/1/2006,Egyptian,Riyadh,594685039,wadha.alturki91@email.com,4/28/2023,Active,3/10/2023,754,26610.75,3.87,Cash,Diamond,No
+RDR000077,Ibrahim Al-Saif,Male,3/23/2001,Saudi,Taif,525667321,ibrahim.alsaif99@email.com,8/26/2020,Active,3/10/2023,617,10963.58,4.37,Mada,Diamond,No
+RDR000078,Yara Al-Rumaih,Female,2/13/1997,Sudanese,Jeddah,550563223,yara.alrumaih65@email.com,10/24/2024,Active,3/10/2023,434,19109.24,3.75,Cash,Diamond,No
+RDR000079,Shatha Al-Shammari,Female,5/25/1996,Sudanese,Jeddah,538122043,shatha.alshammari96@email.com,3/23/2020,Active,3/10/2023,796,21443.53,4.7,Debit Card,Diamond,Yes
+RDR000080,Mubarak Al-Saud,Male,7/13/1995,Sudanese,Jeddah,567841075,mubarak.alsaud22@email.com,10/14/2019,Active,3/10/2023,428,8684.99,4.29,Mada,Diamond,No
+RDR000081,Nasser Al-Fahad,Male,2/20/2000,Saudi,Taif,517916438,nasser.alfahad96@email.com,1/15/2021,Active,3/10/2023,113,2314.45,4.18,Debit Card,Gold,No
+RDR000082,Ibrahim Al-Shammari,Male,7/10/1991,Saudi,Taif,547146394,ibrahim.alshammari9@email.com,3/23/2020,Active,3/10/2023,171,4320.24,3.62,Credit Card,Platinum,No
+RDR000083,Khalil Al-Mohammed,Male,2/14/2004,Saudi,Jeddah,580106555,khalil.almohammed1@email.com,2/8/2019,Inactive,3/24/2019,86,2259.22,4.37,Credit Card,Gold,No
+RDR000084,Wadha Al-Ali,Female,4/29/1994,Saudi,Khobar,558480869,wadha.alali86@email.com,10/11/2025,Active,3/10/2023,380,10242.57,4.52,Apple Pay,Diamond,No
+RDR000085,Joud Al-Dosari,Female,4/25/2007,Filipino,Riyadh,526494625,joud.aldosari68@email.com,2/15/2024,Active,3/10/2023,412,9634.22,4.59,Debit Card,Diamond,No
+RDR000086,Meshari Al-Marri,Male,1/5/1994,Saudi,Tabuk,595064149,meshari.almarri47@email.com,4/30/2024,Active,3/10/2023,677,27894.45,3.78,Mada,Diamond,No
+RDR000087,Nada Al-Hassan,Female,4/9/1989,Indian,Tabuk,598360765,nada.alhassan90@email.com,6/7/2024,Active,3/10/2023,628,26474.02,4.69,Apple Pay,Diamond,No
+RDR000088,Mona Al-Ghamdi,Female,2/16/1986,Saudi,Abha,550446284,mona.alghamdi87@email.com,5/31/2025,Active,3/10/2023,734,32948.63,4.26,Debit Card,Diamond,No
+RDR000089,Dana Al-Marri,Female,11/14/1978,Sudanese,Jeddah,522003335,dana.almarri14@email.com,5/28/2024,Active,3/10/2023,247,6927.56,3.87,Debit Card,Platinum,No
+RDR000090,Rashed Al-Mansour,Male,12/11/2002,Yemeni,Dammam,528220919,rashed.almansour69@email.com,6/21/2021,Active,3/10/2023,682,23192.4,4.21,Mada,Diamond,No
+RDR000091,Lama Al-Rajhi,Female,7/22/1991,Sudanese,Medina,561224263,lama.alrajhi84@email.com,6/17/2025,Active,3/10/2023,616,21106.05,3.6,Apple Pay,Diamond,Yes
+RDR000092,Ghada Al-Hassan,Female,11/25/1981,Saudi,Dammam,525583513,ghada.alhassan74@email.com,4/18/2020,Active,3/10/2023,115,2993.69,3.63,Mada,Gold,No
+RDR000093,Fatima Al-Saleh,Female,2/3/1992,Yemeni,Riyadh,526952687,fatima.alsaleh67@email.com,8/13/2025,Active,3/10/2023,398,13895.09,4.97,Apple Pay,Diamond,Yes
+RDR000094,Thamer Al-Saud,Male,12/18/1977,Indian,Abha,529787096,thamer.alsaud77@email.com,3/1/2024,Active,3/10/2023,304,7144.54,4.76,Cash,Diamond,No
+RDR000095,Rashed Al-Saleh,Male,10/15/1998,Indian,Abha,549123810,rashed.alsaleh91@email.com,5/20/2020,Active,3/10/2023,724,31852.29,4.36,Mada,Diamond,No
+RDR000096,Hamad Al-Ghamdi,Male,8/6/1986,Sudanese,Medina,562587561,hamad.alghamdi39@email.com,7/10/2021,Active,3/10/2023,54,2404.71,4.88,Debit Card,Gold,No
+RDR000097,Mohammed Al-Jasser,Male,12/3/1990,Saudi,Dhahran,580846080,mohammed.aljasser94@email.com,10/14/2022,Active,3/10/2023,485,11393.23,4.99,Cash,Diamond,No
+RDR000098,Thamer Al-Dosari,Male,8/20/1976,Saudi,Mecca,571408972,thamer.aldosari84@email.com,8/17/2022,Active,3/10/2023,595,11846.95,4.8,Credit Card,Diamond,No
+RDR000099,Hamed Al-Ali,Male,1/21/2008,Egyptian,Dammam,587266743,hamed.alali14@email.com,8/16/2020,Active,3/10/2023,767,27113.09,3.79,Mada,Diamond,No
+RDR000100,Mishal Al-Anazi,Male,3/15/2003,Pakistani,Mecca,597254650,mishal.alanazi44@email.com,8/19/2019,Active,3/10/2023,486,15941.66,3.77,Credit Card,Diamond,No
+RDR000101,Thamer Al-Mahmoud,Male,9/22/2000,Yemeni,Riyadh,560381528,thamer.almahmoud89@email.com,5/1/2020,Active,3/10/2023,501,22412.19,3.95,Cash,Diamond,No
+RDR000102,Jasser Al-Mansour,Male,7/9/1986,Yemeni,Dammam,599763770,jasser.almansour66@email.com,12/29/2023,Active,3/10/2023,123,2675.01,3.67,Credit Card,Gold,No
+RDR000103,Hind Al-Dosari,Female,10/31/1982,Saudi,Tabuk,523346779,hind.aldosari42@email.com,1/11/2021,Active,3/10/2023,661,11174.17,4.55,Apple Pay,Diamond,No
+RDR000104,Thamer Al-Rashid,Male,3/27/1982,Pakistani,Dhahran,597469782,thamer.alrashid16@email.com,3/27/2025,Active,3/10/2023,543,20419.65,4.23,Cash,Diamond,No
+RDR000105,Yousef Al-Ahmadi,Male,9/1/1982,Saudi,Tabuk,597595925,yousef.alahmadi21@email.com,1/7/2021,Inactive,8/10/2023,41,723.02,3.68,Debit Card,Silver,No
+RDR000106,Sarah Al-Mutairi,Female,6/17/2008,Saudi,Jeddah,550345846,sarah.almutairi6@email.com,9/4/2024,Active,3/10/2023,558,24209.63,3.76,Mada,Diamond,Yes
+RDR000107,Nada Al-Shehri,Female,4/10/1981,Pakistani,Tabuk,578530276,nada.alshehri27@email.com,7/1/2024,Active,3/10/2023,536,19101.92,4.87,Apple Pay,Diamond,No
+RDR000108,Ali Al-Otaibi,Male,9/13/1983,Saudi,Medina,589427788,ali.alotaibi46@email.com,8/3/2020,Active,3/10/2023,221,5154.13,4.94,Cash,Platinum,No
+RDR000109,Huda Al-Jasser,Female,1/23/1997,Yemeni,Dammam,567088619,huda.aljasser89@email.com,12/3/2021,Active,3/10/2023,168,3241.95,4.1,Credit Card,Platinum,Yes
+RDR000110,Mona Al-Turki,Female,1/5/1989,Jordanian,Tabuk,513477562,mona.alturki78@email.com,9/25/2024,Active,3/10/2023,430,9642.72,4.73,Apple Pay,Diamond,Yes
+RDR000111,Ziyad Al-Harbi,Male,5/4/1998,Saudi,Khobar,511323834,ziyad.alharbi13@email.com,12/31/2019,Active,3/10/2023,342,8999.62,4.67,Debit Card,Diamond,No
+RDR000112,Mishal Al-Dosari,Male,3/6/2004,Pakistani,Jeddah,556828593,mishal.aldosari90@email.com,12/20/2020,Active,3/10/2023,314,10099.73,4.38,Cash,Diamond,No
+RDR000113,Hind Al-Saif,Female,1/22/1978,Pakistani,Jeddah,584044121,hind.alsaif77@email.com,7/16/2019,Active,3/10/2023,770,31924.69,4.08,Apple Pay,Diamond,Yes
+RDR000114,Ibrahim Al-Saud,Male,6/21/1996,Saudi,Abha,595791097,ibrahim.alsaud48@email.com,9/28/2020,Active,3/10/2023,147,5325.09,4.07,Mada,Gold,No
+RDR000115,Ziyad Al-Kaabi,Male,4/11/1989,Pakistani,Mecca,540704198,ziyad.alkaabi40@email.com,12/3/2023,Active,3/10/2023,480,16353.15,4.25,Apple Pay,Diamond,No
+RDR000116,Saleh Al-Shammari,Male,1/21/2001,Filipino,Khobar,517705644,saleh.alshammari11@email.com,1/5/2020,Active,3/10/2023,79,2946.88,4.59,Credit Card,Gold,No
+RDR000117,Fatima Al-Anazi,Female,8/1/1984,Sudanese,Abha,526735821,fatima.alanazi52@email.com,7/12/2020,Active,3/10/2023,528,8140.18,4.53,Mada,Diamond,Yes
+RDR000118,Badr Al-Zamil,Male,10/12/1977,Filipino,Khobar,515684923,badr.alzamil78@email.com,9/27/2021,Active,3/10/2023,678,19295.58,4.93,Cash,Diamond,No
+RDR000119,Hassan Al-Ahmadi,Male,7/3/1989,Indian,Jeddah,560881238,hassan.alahmadi22@email.com,2/12/2023,Active,3/10/2023,527,13806.62,4.03,Credit Card,Diamond,No
+RDR000120,Hamad Al-Mahmoud,Male,5/13/2008,Sudanese,Abha,594715069,hamad.almahmoud73@email.com,4/27/2020,Active,3/10/2023,495,13270.28,3.94,Debit Card,Diamond,No
+RDR000121,Sarah Al-Kaabi,Female,8/3/1992,Saudi,Tabuk,510691813,sarah.alkaabi45@email.com,6/22/2024,Inactive,8/3/2024,79,3294.77,4.19,Apple Pay,Gold,Yes
+RDR000122,Fatima Al-Dosari,Female,1/15/1990,Saudi,Dhahran,575419352,fatima.aldosari1@email.com,7/8/2024,Active,3/10/2023,542,10660.55,4.27,Debit Card,Diamond,No
+RDR000123,Khalil Al-Faisal,Male,8/4/2003,Indian,Khobar,598084362,khalil.alfaisal57@email.com,5/10/2022,Active,3/10/2023,187,3712.89,4.3,Apple Pay,Platinum,No
+RDR000124,Raghad Al-Saud,Female,7/30/1989,Sudanese,Khobar,554454724,raghad.alsaud5@email.com,3/23/2021,Active,3/10/2023,292,5784.34,3.56,Cash,Platinum,Yes
+RDR000125,Hind Al-Zahrani,Female,7/12/1990,Pakistani,Dhahran,562190363,hind.alzahrani17@email.com,6/26/2024,Active,3/10/2023,699,12786.1,4.57,Apple Pay,Diamond,Yes
+RDR000126,Nasser Al-Ghamdi,Male,3/11/1989,Filipino,Khobar,511077619,nasser.alghamdi56@email.com,8/10/2024,Inactive,9/1/2025,7,205.84,4.52,Apple Pay,Silver,No
+RDR000127,Wadha Al-Mutairi,Female,11/8/1995,Saudi,Dhahran,545370495,wadha.almutairi90@email.com,10/11/2021,Active,3/10/2023,747,16748.21,4.27,Debit Card,Diamond,No
+RDR000128,Khalil Al-Dosari,Male,3/5/1998,Saudi,Abha,527756443,khalil.aldosari52@email.com,11/8/2025,Active,3/10/2023,606,9787.5,4.44,Debit Card,Diamond,No
+RDR000129,Sultan Al-Anazi,Male,9/20/1994,Sudanese,Riyadh,595001425,sultan.alanazi30@email.com,11/30/2025,Active,3/10/2023,53,1147.62,4.07,Cash,Gold,No
+RDR000130,Aljohara Al-Qahtani,Female,11/18/1995,Egyptian,Abha,566112969,aljohara.alqahtani32@email.com,10/16/2023,Active,3/10/2023,312,7673.71,3.67,Apple Pay,Diamond,Yes
+RDR000131,Ahmed Al-Qahtani,Male,2/19/1989,Saudi,Khobar,543858172,ahmed.alqahtani63@email.com,5/18/2021,Active,3/10/2023,287,7435.43,4.86,Credit Card,Platinum,No
+RDR000132,Reem Al-Dosari,Female,4/3/1992,Sudanese,Riyadh,589042306,reem.aldosari68@email.com,3/10/2025,Active,3/10/2023,134,4440.95,4,Mada,Gold,Yes
+RDR000133,Samar Al-Rumaih,Female,1/25/2003,Saudi,Dhahran,588726945,samar.alrumaih84@email.com,12/24/2019,Active,3/10/2023,134,5295.98,4.44,Cash,Gold,Yes
+RDR000134,Rana Al-Harbi,Female,7/13/1984,Sudanese,Abha,530625554,rana.alharbi6@email.com,12/10/2025,Active,3/10/2023,743,13994.37,4.21,Debit Card,Diamond,Yes
+RDR000135,Tala Al-Turki,Female,11/11/1985,Saudi,Taif,532405653,tala.alturki77@email.com,4/25/2020,Active,3/10/2023,70,1625.71,4.22,Cash,Gold,No
+RDR000136,Sarah Al-Mazrou,Female,6/7/1985,Saudi,Riyadh,532215479,sarah.almazrou57@email.com,2/18/2021,Active,3/10/2023,408,15308.91,4.24,Cash,Diamond,Yes
+RDR000137,Yara Al-Saif,Female,3/18/1977,Saudi,Dammam,578826270,yara.alsaif59@email.com,4/27/2021,Active,3/10/2023,164,4938.78,4.36,Cash,Platinum,No
+RDR000138,Shatha Al-Hassan,Female,10/12/1997,Saudi,Dammam,515246661,shatha.alhassan82@email.com,1/4/2022,Active,3/10/2023,176,3422.18,3.84,Cash,Platinum,No
+RDR000139,Sami Al-Qahtani,Male,4/27/1981,Egyptian,Medina,553561957,sami.alqahtani11@email.com,5/10/2021,Active,3/10/2023,2,86.79,4.47,Mada,Silver,No
+RDR000140,Maha Al-Shammari,Female,7/8/1992,Saudi,Tabuk,547539330,maha.alshammari23@email.com,4/22/2022,Active,3/10/2023,59,1338.1,4.44,Credit Card,Gold,Yes
+RDR000141,Mishal Al-Farsi,Male,4/26/1999,Filipino,Tabuk,594530413,mishal.alfarsi97@email.com,3/6/2025,Active,3/10/2023,453,12169.35,3.83,Apple Pay,Diamond,No
+RDR000142,Ghada Al-Anazi,Female,3/1/2000,Saudi,Khobar,535348349,ghada.alanazi73@email.com,8/30/2020,Active,3/10/2023,96,2852.69,4.24,Cash,Gold,No
+RDR000143,Aisha Al-Saleh,Female,1/10/2002,Saudi,Mecca,567229772,aisha.alsaleh32@email.com,12/28/2020,Active,3/10/2023,704,20170.11,4.41,Credit Card,Diamond,No
+RDR000144,Rana Al-Sabah,Female,11/9/2007,Yemeni,Mecca,515870689,rana.alsabah17@email.com,2/18/2019,Active,3/10/2023,387,8688.26,4.08,Credit Card,Diamond,Yes
+RDR000145,Ahmed Al-Saud,Male,5/23/1999,Saudi,Jeddah,574481609,ahmed.alsaud98@email.com,1/30/2025,Active,3/10/2023,347,11064.28,4.78,Credit Card,Diamond,No
+RDR000146,Dana Al-Saleh,Female,4/26/1980,Pakistani,Khobar,526518916,dana.alsaleh3@email.com,5/15/2024,Active,3/10/2023,58,2305.37,4.32,Apple Pay,Gold,Yes
+RDR000147,Rana Al-Khalid,Female,11/8/2001,Egyptian,Dhahran,597961547,rana.alkhalid37@email.com,8/3/2020,Inactive,12/5/2021,4,87.11,3.84,Cash,Silver,No
+RDR000148,Reem Al-Mohammed,Female,6/30/1993,Saudi,Mecca,558384619,reem.almohammed11@email.com,3/27/2020,Active,3/10/2023,289,12099.73,4.04,Cash,Platinum,No
+RDR000149,Badr Al-Sabah,Male,8/22/1977,Saudi,Khobar,593853635,badr.alsabah37@email.com,9/22/2025,Active,3/10/2023,436,11096.88,3.73,Mada,Diamond,No
+RDR000150,Sami Al-Mohammed,Male,10/18/2001,Yemeni,Khobar,529674854,sami.almohammed41@email.com,12/23/2021,Active,3/10/2023,729,14166.95,4.7,Credit Card,Diamond,No
+RDR000151,Aljohara Al-Harbi,Female,12/22/1993,Saudi,Jeddah,534410491,aljohara.alharbi99@email.com,6/24/2025,Active,3/10/2023,745,19780.14,3.92,Credit Card,Diamond,Yes
+RDR000152,Aljohara Al-Shammari,Female,9/7/1989,Pakistani,Tabuk,576719940,aljohara.alshammari69@email.com,9/27/2022,Active,3/10/2023,670,20778.79,4.88,Cash,Diamond,Yes
+RDR000153,Mishal Al-Mutairi,Male,8/17/1998,Sudanese,Tabuk,521710526,mishal.almutairi31@email.com,9/24/2023,Active,3/10/2023,796,20577.62,4.54,Mada,Diamond,No
+RDR000154,Mohammed Al-Turki,Male,4/11/1992,Saudi,Abha,549553600,mohammed.alturki59@email.com,4/25/2024,Active,3/10/2023,113,2183.64,3.59,Apple Pay,Gold,No
+RDR000155,Amal Al-Nasser,Female,1/17/2002,Jordanian,Medina,513536218,amal.alnasser90@email.com,8/17/2019,Active,3/10/2023,121,5317.63,4.94,Mada,Gold,Yes
+RDR000156,Abdullah Al-Ali,Male,11/27/2007,Filipino,Tabuk,565900995,abdullah.alali20@email.com,10/9/2020,Inactive,11/26/2022,19,721.29,3.62,Credit Card,Silver,No
+RDR000157,Maha Al-Sabah,Female,4/12/1977,Saudi,Dammam,548489493,maha.alsabah15@email.com,4/9/2024,Active,3/10/2023,346,6808.11,4.17,Mada,Diamond,No
+RDR000158,Turki Al-Khalid,Male,8/10/1983,Sudanese,Mecca,544635469,turki.alkhalid74@email.com,2/14/2019,Active,3/10/2023,434,13044.38,4.52,Cash,Diamond,No
+RDR000159,Badr Al-Malki,Male,9/11/1980,Saudi,Dammam,539381121,badr.almalki51@email.com,1/12/2020,Active,3/10/2023,129,2645.89,4.61,Cash,Gold,No
+RDR000160,Jasser Al-Ali,Male,6/17/1979,Jordanian,Khobar,536136297,jasser.alali35@email.com,7/18/2023,Active,3/10/2023,169,3084.59,3.58,Apple Pay,Platinum,No
+RDR000161,Meshari Al-Saif,Male,12/17/1998,Filipino,Khobar,511473309,meshari.alsaif97@email.com,4/25/2019,Active,3/10/2023,167,7062.53,4.31,Credit Card,Platinum,No
+RDR000162,Faisal Al-Otaibi,Male,10/6/1986,Saudi,Medina,516449014,faisal.alotaibi41@email.com,1/7/2022,Active,3/10/2023,584,10393.06,4.35,Cash,Diamond,No
+RDR000163,Fatima Al-Sulaiman,Female,7/2/1992,Saudi,Dammam,523070100,fatima.alsulaiman43@email.com,6/19/2023,Active,3/10/2023,323,8791.61,4.63,Mada,Diamond,No
+RDR000164,Sultan Al-Rashid,Male,11/8/1977,Indian,Tabuk,520570029,sultan.alrashid81@email.com,4/15/2023,Active,3/10/2023,39,694.15,3.94,Debit Card,Silver,No
+RDR000165,Majed Al-Ghamdi,Male,2/24/1993,Indian,Mecca,527609040,majed.alghamdi44@email.com,8/16/2024,Active,3/10/2023,747,17722.76,4.41,Cash,Diamond,No
+RDR000166,Sarah Al-Mansour,Female,1/13/1983,Yemeni,Medina,576776383,sarah.almansour13@email.com,5/5/2021,Active,3/10/2023,622,24346.2,3.61,Debit Card,Diamond,Yes
+RDR000167,Lama Al-Mohammed,Female,8/9/1982,Egyptian,Jeddah,557428314,lama.almohammed12@email.com,2/6/2024,Active,3/10/2023,303,5191.61,3.74,Apple Pay,Diamond,No
+RDR000168,Wafa Al-Ali,Female,7/25/1986,Saudi,Dammam,558784400,wafa.alali37@email.com,12/16/2023,Active,3/10/2023,144,3892.06,4.91,Cash,Gold,No
+RDR000169,Hamed Al-Turki,Male,9/3/1996,Yemeni,Abha,515727818,hamed.alturki80@email.com,7/8/2022,Active,3/10/2023,699,30981.74,4.12,Cash,Diamond,No
+RDR000170,Ali Al-Jasser,Male,7/22/1990,Saudi,Riyadh,539937437,ali.aljasser50@email.com,9/25/2020,Active,3/10/2023,298,12284.98,4.06,Cash,Platinum,No
+RDR000171,Nawaf Al-Kaabi,Male,8/9/2003,Jordanian,Taif,568131630,nawaf.alkaabi26@email.com,12/31/2024,Active,3/10/2023,477,12900.76,3.66,Debit Card,Diamond,No
+RDR000172,Rashed Al-Rajhi,Male,1/28/1988,Saudi,Tabuk,583159563,rashed.alrajhi20@email.com,6/14/2024,Active,3/10/2023,760,33026.57,4.21,Apple Pay,Diamond,No
+RDR000173,Majed Al-Hamdan,Male,3/4/1989,Indian,Tabuk,538644859,majed.alhamdan7@email.com,5/9/2019,Active,3/10/2023,793,16926.42,4.07,Apple Pay,Diamond,No
+RDR000174,Badr Al-Khalifa,Male,1/31/1995,Sudanese,Dammam,570588691,badr.alkhalifa54@email.com,12/22/2020,Active,3/10/2023,71,2182.78,3.91,Credit Card,Gold,No
+RDR000175,Hanan Al-Qahtani,Female,10/18/1992,Jordanian,Jeddah,574642647,hanan.alqahtani61@email.com,10/22/2023,Active,3/10/2023,772,23982.33,3.95,Debit Card,Diamond,No
+RDR000176,Tala Al-Mazrou,Female,7/3/1978,Filipino,Dhahran,592746890,tala.almazrou19@email.com,2/10/2019,Active,3/10/2023,612,15123.73,3.8,Mada,Diamond,No
+RDR000177,Fatima Al-Ghamdi,Female,3/27/1990,Saudi,Taif,579886056,fatima.alghamdi93@email.com,8/27/2020,Active,3/10/2023,325,4910.85,3.67,Mada,Diamond,Yes
+RDR000178,Hamed Al-Rumaih,Male,1/5/2001,Filipino,Jeddah,560674785,hamed.alrumaih28@email.com,5/30/2019,Active,3/10/2023,193,4910.42,4.13,Cash,Platinum,No
+RDR000179,Ahmed Al-Turki,Male,2/4/1977,Indian,Khobar,597095450,ahmed.alturki59@email.com,3/8/2019,Active,3/10/2023,315,8637.81,4.25,Credit Card,Diamond,No
+RDR000180,Tala Al-Zamil,Female,11/19/1987,Jordanian,Dhahran,560079518,tala.alzamil23@email.com,11/12/2024,Active,3/10/2023,344,10864.42,3.67,Debit Card,Diamond,Yes
+RDR000181,Layan Al-Baker,Female,6/11/2004,Yemeni,Dhahran,512204726,layan.albaker79@email.com,3/6/2022,Active,3/10/2023,102,4383.44,4.99,Credit Card,Gold,Yes
+RDR000182,Hamed Al-Khalid,Male,9/21/1983,Jordanian,Tabuk,525368078,hamed.alkhalid26@email.com,5/14/2019,Active,3/10/2023,431,17537.51,3.82,Cash,Diamond,No
+RDR000183,Nawaf Al-Kaabi,Male,12/2/1978,Saudi,Dhahran,551258084,nawaf.alkaabi54@email.com,6/10/2023,Inactive,8/15/2025,29,1020.77,4.26,Apple Pay,Silver,No
+RDR000184,Ziyad Al-Otaibi,Male,7/21/1981,Egyptian,Riyadh,554975010,ziyad.alotaibi22@email.com,4/18/2019,Active,3/10/2023,384,16809.53,4.76,Cash,Diamond,No
+RDR000185,Amal Al-Jasser,Female,3/20/1989,Saudi,Dhahran,595399182,amal.aljasser50@email.com,2/28/2021,Active,3/10/2023,403,17861.23,4.74,Cash,Diamond,Yes
+RDR000186,Dana Al-Anazi,Female,8/2/1982,Jordanian,Medina,594197247,dana.alanazi34@email.com,2/12/2020,Active,3/10/2023,130,5215.62,4.26,Mada,Gold,Yes
+RDR000187,Samar Al-Mutairi,Female,3/21/2007,Filipino,Jeddah,582970485,samar.almutairi11@email.com,4/16/2019,Active,3/10/2023,644,20707.06,4.66,Debit Card,Diamond,Yes
+RDR000188,Jasser Al-Sulaiman,Male,6/18/1997,Sudanese,Mecca,560748656,jasser.alsulaiman99@email.com,9/8/2021,Active,3/10/2023,228,5201.68,3.95,Cash,Platinum,No
+RDR000189,Sami Al-Mutairi,Male,11/14/1987,Filipino,Mecca,526466411,sami.almutairi14@email.com,4/5/2019,Active,3/10/2023,594,11437.51,4.8,Credit Card,Diamond,No
+RDR000190,Hanan Al-Mutairi,Female,6/25/2007,Jordanian,Jeddah,519875199,hanan.almutairi63@email.com,7/17/2024,Active,3/10/2023,213,9324.4,4.09,Cash,Platinum,Yes
+RDR000191,Layan Al-Hamdan,Female,1/7/1983,Yemeni,Taif,591423836,layan.alhamdan5@email.com,10/21/2020,Active,3/10/2023,11,203.68,4.86,Mada,Silver,Yes
+RDR000192,Aljohara Al-Muhanna,Female,6/3/1984,Saudi,Tabuk,579524101,aljohara.almuhanna66@email.com,2/16/2025,Inactive,8/23/2025,16,605.26,3.79,Credit Card,Silver,Yes
+RDR000193,Reem Al-Nasser,Female,6/17/1996,Saudi,Riyadh,574635885,reem.alnasser26@email.com,9/3/2022,Active,3/10/2023,86,3749.33,4.59,Debit Card,Gold,Yes
+RDR000194,Anoud Al-Mohammed,Female,8/24/1977,Sudanese,Dhahran,547726289,anoud.almohammed51@email.com,9/30/2024,Active,3/10/2023,198,3581.19,3.88,Debit Card,Platinum,No
+RDR000195,Dana Al-Nasser,Female,3/2/1994,Filipino,Taif,524436339,dana.alnasser78@email.com,11/11/2023,Active,3/10/2023,434,11497.26,4.39,Apple Pay,Diamond,Yes
+RDR000196,Razan Al-Harbi,Female,4/20/1995,Filipino,Taif,596583583,razan.alharbi68@email.com,11/16/2020,Active,3/10/2023,524,13397.42,3.88,Cash,Diamond,Yes
+RDR000197,Rashed Al-Anazi,Male,12/16/2001,Egyptian,Mecca,526415312,rashed.alanazi2@email.com,1/5/2023,Active,3/10/2023,221,5427.25,4.49,Apple Pay,Platinum,No
+RDR000198,Hamad Al-Nasser,Male,9/29/1995,Filipino,Taif,538477668,hamad.alnasser68@email.com,5/13/2025,Active,3/10/2023,239,5144.21,4.34,Cash,Platinum,No
+RDR000199,Huda Al-Mazrou,Female,4/23/1986,Indian,Dhahran,516280294,huda.almazrou36@email.com,11/18/2023,Active,3/10/2023,328,9064.97,3.8,Credit Card,Diamond,Yes
+RDR000200,Rashed Al-Rumaih,Male,4/3/2008,Indian,Dhahran,548166934,rashed.alrumaih17@email.com,8/26/2021,Active,3/10/2023,292,11752.79,3.53,Cash,Platinum,No
+RDR000201,Sarah Al-Zamil,Female,11/5/1989,Sudanese,Abha,550399304,sarah.alzamil36@email.com,6/10/2019,Active,3/10/2023,17,416.77,3.6,Credit Card,Silver,Yes
+RDR000202,Rashed Al-Mohammed,Male,9/16/1979,Saudi,Tabuk,560184824,rashed.almohammed80@email.com,7/12/2019,Active,3/10/2023,714,12910.77,4.98,Cash,Diamond,No
+RDR000203,Khalid Al-Saud,Male,10/30/2000,Saudi,Mecca,535657019,khalid.alsaud93@email.com,3/6/2020,Active,3/10/2023,705,29658.15,4.59,Debit Card,Diamond,No
+RDR000204,Fatima Al-Qahtani,Female,8/10/1977,Filipino,Dammam,560943206,fatima.alqahtani35@email.com,6/26/2019,Active,3/10/2023,312,11219.5,3.61,Apple Pay,Diamond,No
+RDR000205,Reem Al-Shehri,Female,12/23/2002,Pakistani,Khobar,580811787,reem.alshehri31@email.com,8/29/2020,Active,3/10/2023,424,13710.69,4.46,Mada,Diamond,No
+RDR000206,Maram Al-Ali,Female,5/31/1983,Saudi,Medina,598514011,maram.alali83@email.com,1/12/2020,Active,3/10/2023,304,11265.65,4.57,Apple Pay,Diamond,Yes
+RDR000207,Abdullah Al-Mohammed,Male,8/4/1986,Saudi,Riyadh,555694444,abdullah.almohammed27@email.com,5/20/2021,Inactive,9/4/2022,60,2365.19,4.73,Debit Card,Gold,No
+RDR000208,Shatha Al-Kaabi,Female,3/3/1991,Indian,Mecca,593279154,shatha.alkaabi66@email.com,8/28/2024,Active,3/10/2023,134,2826.14,3.83,Apple Pay,Gold,Yes
+RDR000209,Sami Al-Anazi,Male,10/15/1987,Saudi,Mecca,524790683,sami.alanazi31@email.com,6/12/2022,Active,3/10/2023,592,9174.6,4.47,Debit Card,Diamond,No
+RDR000210,Hanan Al-Khalifa,Female,10/12/1983,Saudi,Riyadh,557570364,hanan.alkhalifa56@email.com,5/4/2024,Active,3/10/2023,464,9911.96,4.03,Credit Card,Diamond,Yes
+RDR000211,Joud Al-Qahtani,Female,7/5/1989,Saudi,Taif,549460803,joud.alqahtani25@email.com,1/21/2022,Active,3/10/2023,51,1381.12,4.47,Mada,Gold,Yes
+RDR000212,Raghad Al-Dosari,Female,8/30/1982,Saudi,Riyadh,542046782,raghad.aldosari9@email.com,10/16/2021,Active,3/10/2023,225,6966.89,3.67,Credit Card,Platinum,Yes
+RDR000213,Yara Al-Faisal,Female,10/16/2000,Saudi,Jeddah,556658526,yara.alfaisal82@email.com,6/19/2021,Active,3/10/2023,709,16760.6,3.9,Debit Card,Diamond,Yes
+RDR000214,Omar Al-Ahmadi,Male,10/5/1997,Saudi,Abha,552293683,omar.alahmadi88@email.com,12/23/2025,Active,3/10/2023,313,5347.18,4.78,Mada,Diamond,No
+RDR000215,Hamad Al-Kaabi,Male,8/18/1996,Saudi,Mecca,532914336,hamad.alkaabi87@email.com,2/22/2019,Active,3/10/2023,439,16597.63,4,Debit Card,Diamond,No
+RDR000216,Nawaf Al-Ali,Male,9/8/2007,Filipino,Tabuk,549011532,nawaf.alali30@email.com,1/5/2019,Active,3/10/2023,254,7812.55,4.21,Credit Card,Platinum,No
+RDR000217,Sultan Al-Dosari,Male,9/23/1992,Pakistani,Jeddah,544539524,sultan.aldosari85@email.com,6/1/2022,Active,3/10/2023,344,10180.61,4.18,Mada,Diamond,No
+RDR000218,Anoud Al-Saud,Female,9/27/1986,Saudi,Khobar,546230390,anoud.alsaud88@email.com,5/18/2022,Active,3/10/2023,531,16237.59,4.66,Cash,Diamond,No
+RDR000219,Ziyad Al-Hassan,Male,2/22/1989,Egyptian,Mecca,537690126,ziyad.alhassan96@email.com,1/3/2023,Active,3/10/2023,251,4437.23,4.37,Mada,Platinum,No
+RDR000220,Rana Al-Khalifa,Female,10/25/1992,Egyptian,Abha,562482651,rana.alkhalifa76@email.com,1/15/2024,Active,3/10/2023,540,14860.17,3.76,Mada,Diamond,No
+RDR000221,Mona Al-Otaibi,Female,1/17/1983,Egyptian,Tabuk,548709538,mona.alotaibi15@email.com,10/31/2024,Active,3/10/2023,628,27684.81,3.68,Cash,Diamond,Yes
+RDR000222,Jasser Al-Ghamdi,Male,7/15/1995,Saudi,Abha,549557552,jasser.alghamdi2@email.com,4/1/2022,Active,3/10/2023,681,19487.32,3.74,Cash,Diamond,No
+RDR000223,Waleed Al-Rumaih,Male,6/8/2008,Saudi,Jeddah,543746828,waleed.alrumaih18@email.com,8/6/2019,Active,3/10/2023,6,153.04,4.15,Mada,Silver,No
+RDR000224,Lina Al-Mutairi,Female,6/3/1995,Saudi,Dammam,514313313,lina.almutairi61@email.com,8/7/2020,Active,3/10/2023,202,8683.58,4.15,Credit Card,Platinum,Yes
+RDR000225,Raghad Al-Faisal,Female,11/30/1988,Yemeni,Jeddah,553282519,raghad.alfaisal75@email.com,12/6/2021,Active,3/10/2023,612,11735.28,3.97,Cash,Diamond,No
+RDR000226,Maha Al-Shammari,Female,10/12/1987,Pakistani,Abha,534611796,maha.alshammari49@email.com,3/28/2021,Active,3/10/2023,88,3385.55,3.95,Mada,Gold,No
+RDR000227,Nasser Al-Sabah,Male,7/29/1992,Jordanian,Taif,572619624,nasser.alsabah54@email.com,7/7/2022,Active,3/10/2023,702,30778.07,4.57,Cash,Diamond,No
+RDR000228,Aisha Al-Jasser,Female,7/31/1997,Filipino,Riyadh,578747232,aisha.aljasser48@email.com,9/21/2023,Active,3/10/2023,144,2709.83,4.42,Apple Pay,Gold,Yes
+RDR000229,Noura Al-Faisal,Female,10/27/1987,Saudi,Mecca,521362751,noura.alfaisal8@email.com,7/9/2023,Active,3/10/2023,474,10951.89,4.71,Cash,Diamond,No
+RDR000230,Hamad Al-Saif,Male,1/7/2003,Sudanese,Jeddah,588466030,hamad.alsaif87@email.com,4/5/2022,Active,3/10/2023,708,21469.84,4,Credit Card,Diamond,No
+RDR000231,Majed Al-Sabah,Male,10/9/1979,Saudi,Mecca,550385068,majed.alsabah81@email.com,4/21/2025,Active,3/10/2023,508,12357.98,3.7,Mada,Diamond,No
+RDR000232,Mubarak Al-Muhanna,Male,2/13/2004,Saudi,Medina,537419830,mubarak.almuhanna14@email.com,4/14/2020,Inactive,3/23/2021,78,2278.56,4.82,Cash,Gold,No
+RDR000233,Yara Al-Qahtani,Female,10/15/1996,Filipino,Jeddah,568939010,yara.alqahtani85@email.com,5/13/2022,Active,3/10/2023,189,6334.29,4.73,Cash,Platinum,Yes
+RDR000234,Turki Al-Ghamdi,Male,11/30/1986,Saudi,Medina,548849191,turki.alghamdi86@email.com,11/30/2020,Active,3/10/2023,717,12906.42,4.32,Cash,Diamond,No
+RDR000235,Razan Al-Khalifa,Female,10/26/2001,Saudi,Dhahran,548040286,razan.alkhalifa59@email.com,4/30/2023,Active,3/10/2023,110,2046.42,4.2,Cash,Gold,Yes
+RDR000236,Sarah Al-Muhanna,Female,11/27/1987,Saudi,Taif,511224073,sarah.almuhanna21@email.com,6/24/2019,Active,3/10/2023,364,9366.6,4.94,Cash,Diamond,No
+RDR000237,Nawaf Al-Sabah,Male,3/31/1993,Indian,Dhahran,528795756,nawaf.alsabah36@email.com,10/2/2024,Inactive,10/15/2025,46,1773.25,4.48,Cash,Silver,No
+RDR000238,Yara Al-Harbi,Female,9/6/1976,Pakistani,Taif,598436745,yara.alharbi68@email.com,3/23/2023,Active,3/10/2023,621,14144.38,4.49,Cash,Diamond,No
+RDR000239,Yara Al-Harbi,Female,9/13/2003,Indian,Riyadh,573943071,yara.alharbi42@email.com,5/1/2019,Active,3/10/2023,163,6160.96,3.85,Mada,Platinum,No
+RDR000240,Omar Al-Ahmadi,Male,10/14/2006,Sudanese,Dhahran,519782015,omar.alahmadi57@email.com,9/17/2023,Active,3/10/2023,64,2425.64,4.42,Credit Card,Gold,No
+RDR000241,Turki Al-Hamdan,Male,9/8/1999,Saudi,Jeddah,575914731,turki.alhamdan57@email.com,1/16/2024,Active,3/10/2023,653,23093.65,4.36,Debit Card,Diamond,No
+RDR000242,Faisal Al-Malki,Male,3/30/1980,Yemeni,Dhahran,522912566,faisal.almalki27@email.com,12/4/2024,Active,3/10/2023,197,3151.44,3.63,Credit Card,Platinum,No
+RDR000243,Ahmed Al-Turki,Male,8/28/1979,Pakistani,Dhahran,576595544,ahmed.alturki25@email.com,5/16/2025,Active,3/10/2023,74,2957.93,4.01,Mada,Gold,No
+RDR000244,Tala Al-Sulaiman,Female,8/5/1991,Saudi,Tabuk,586390345,tala.alsulaiman11@email.com,4/7/2025,Active,3/10/2023,69,1298.29,4.16,Mada,Gold,Yes
+RDR000245,Yousef Al-Mohammed,Male,3/10/1997,Jordanian,Medina,558037222,yousef.almohammed9@email.com,7/30/2019,Active,3/10/2023,339,13957.74,3.53,Apple Pay,Diamond,No
+RDR000246,Waleed Al-Harbi,Male,6/17/1994,Jordanian,Abha,593033115,waleed.alharbi8@email.com,6/14/2025,Active,3/10/2023,531,16661.85,4.9,Cash,Diamond,No
+RDR000247,Khalil Al-Farsi,Male,3/20/2002,Saudi,Riyadh,583428820,khalil.alfarsi94@email.com,5/13/2019,Active,3/10/2023,268,6670.06,3.8,Credit Card,Platinum,No
+RDR000248,Ali Al-Mohammed,Male,12/13/1992,Saudi,Jeddah,565866810,ali.almohammed77@email.com,4/28/2025,Active,3/10/2023,720,26768.65,4.75,Credit Card,Diamond,No
+RDR000249,Khalil Al-Shehri,Male,10/2/1992,Jordanian,Dammam,574101392,khalil.alshehri39@email.com,6/20/2019,Active,3/10/2023,509,19569.14,4.26,Mada,Diamond,No
+RDR000250,Mohammed Al-Qahtani,Male,8/27/2007,Pakistani,Riyadh,574716210,mohammed.alqahtani7@email.com,3/14/2021,Active,3/10/2023,389,10352.75,4.52,Mada,Diamond,No
+RDR000251,Maha Al-Anazi,Female,12/21/1991,Egyptian,Dhahran,535990676,maha.alanazi44@email.com,2/28/2025,Active,3/10/2023,449,12614.99,3.68,Cash,Diamond,Yes
+RDR000252,Saad Al-Rumaih,Male,12/26/1982,Saudi,Riyadh,511999650,saad.alrumaih93@email.com,7/19/2021,Active,3/10/2023,771,17345.71,4.83,Cash,Diamond,No
+RDR000253,Abdullah Al-Qahtani,Male,1/28/1979,Saudi,Mecca,549246971,abdullah.alqahtani17@email.com,12/2/2023,Active,3/10/2023,45,1493.27,3.97,Cash,Silver,No
+RDR000254,Reem Al-Harbi,Female,6/14/1992,Saudi,Jeddah,569531177,reem.alharbi92@email.com,10/21/2021,Active,3/10/2023,211,5081.21,4.24,Mada,Platinum,Yes
+RDR000255,Amal Al-Sabah,Female,1/13/1990,Sudanese,Dammam,593466217,amal.alsabah63@email.com,7/30/2022,Active,3/10/2023,516,12071.05,3.66,Apple Pay,Diamond,Yes
+RDR000256,Hassan Al-Saleh,Male,11/9/2006,Saudi,Abha,569093033,hassan.alsaleh84@email.com,5/13/2021,Active,3/10/2023,743,28178.84,4.72,Debit Card,Diamond,No
+RDR000257,Mohammed Al-Mohammed,Male,10/14/2005,Saudi,Riyadh,591838954,mohammed.almohammed50@email.com,1/12/2022,Active,3/10/2023,394,11765.13,3.95,Credit Card,Diamond,No
+RDR000258,Layan Al-Marri,Female,2/13/2006,Yemeni,Riyadh,550956281,layan.almarri5@email.com,7/8/2021,Active,3/10/2023,189,5905.58,4.49,Cash,Platinum,Yes
+RDR000259,Hamad Al-Farsi,Male,12/29/1988,Jordanian,Tabuk,517666327,hamad.alfarsi14@email.com,6/5/2021,Active,3/10/2023,350,11059.59,4.59,Cash,Diamond,No
+RDR000260,Anoud Al-Anazi,Female,7/3/1987,Sudanese,Tabuk,541974274,anoud.alanazi17@email.com,5/16/2025,Active,3/10/2023,267,11275.78,3.74,Cash,Platinum,Yes
+RDR000261,Lama Al-Mahmoud,Female,3/28/1992,Saudi,Abha,598480345,lama.almahmoud33@email.com,4/26/2022,Active,3/10/2023,405,15581.48,3.56,Apple Pay,Diamond,No
+RDR000262,Yousef Al-Saleh,Male,9/24/1988,Saudi,Tabuk,572604450,yousef.alsaleh5@email.com,8/7/2022,Active,3/10/2023,184,8091.69,4.17,Credit Card,Platinum,No
+RDR000263,Samar Al-Shammari,Female,5/18/1994,Saudi,Riyadh,569114791,samar.alshammari24@email.com,7/1/2025,Active,3/10/2023,284,6458.22,4.85,Cash,Platinum,No
+RDR000264,Wadha Al-Shehri,Female,5/1/2003,Yemeni,Medina,515167621,wadha.alshehri24@email.com,12/15/2020,Active,3/10/2023,633,22492.54,4.48,Debit Card,Diamond,No
+RDR000265,Sarah Al-Jasser,Female,1/13/1978,Egyptian,Medina,582536810,sarah.aljasser92@email.com,9/7/2019,Active,3/10/2023,266,4346.97,4.96,Credit Card,Platinum,Yes
+RDR000266,Abdullah Al-Khalid,Male,10/22/1991,Yemeni,Taif,565830504,abdullah.alkhalid10@email.com,4/8/2020,Active,3/10/2023,243,8324.36,3.81,Cash,Platinum,No
+RDR000267,Lina Al-Rashid,Female,8/28/1991,Indian,Khobar,549468472,lina.alrashid80@email.com,10/22/2025,Active,3/10/2023,344,5481.54,4.96,Mada,Diamond,Yes
+RDR000268,Lina Al-Rumaih,Female,9/1/1985,Filipino,Riyadh,556177977,lina.alrumaih28@email.com,3/11/2020,Active,3/10/2023,321,8463.23,4.27,Mada,Diamond,Yes
+RDR000269,Mishal Al-Mutairi,Male,9/17/1989,Pakistani,Jeddah,526272875,mishal.almutairi68@email.com,7/8/2021,Active,3/10/2023,589,22939.29,4.45,Mada,Diamond,No
+RDR000270,Nada Al-Hamdan,Female,7/24/1997,Egyptian,Dammam,540989625,nada.alhamdan59@email.com,3/9/2021,Active,3/10/2023,301,7357.79,4.87,Apple Pay,Diamond,No
+RDR000271,Hamed Al-Shammari,Male,2/27/1979,Indian,Khobar,591231063,hamed.alshammari30@email.com,11/23/2019,Active,3/10/2023,518,14746.96,3.61,Apple Pay,Diamond,No
+RDR000272,Ghada Al-Mazrou,Female,4/8/2002,Filipino,Mecca,544934049,ghada.almazrou37@email.com,1/11/2025,Active,3/10/2023,418,10553.31,4.51,Mada,Diamond,Yes
+RDR000273,Sadeem Al-Khalid,Female,2/5/1988,Saudi,Mecca,532383617,sadeem.alkhalid16@email.com,6/17/2025,Active,3/10/2023,792,21826.54,3.8,Debit Card,Diamond,No
+RDR000274,Rana Al-Shehri,Female,1/21/1991,Jordanian,Riyadh,557562437,rana.alshehri17@email.com,11/3/2023,Inactive,11/8/2024,10,270.7,3.7,Cash,Silver,Yes
+RDR000275,Reem Al-Rajhi,Female,2/26/2005,Sudanese,Khobar,557641606,reem.alrajhi58@email.com,8/19/2025,Active,3/10/2023,111,4697.55,4.99,Credit Card,Gold,No
+RDR000276,Jawaher Al-Ali,Female,9/15/2004,Saudi,Mecca,511044716,jawaher.alali76@email.com,1/21/2021,Active,3/10/2023,604,19806.03,4.87,Cash,Diamond,No
+RDR000277,Layan Al-Hamdan,Female,1/17/1998,Saudi,Taif,576208728,layan.alhamdan44@email.com,12/24/2020,Active,3/10/2023,603,9918.53,3.92,Credit Card,Diamond,Yes
+RDR000278,Jawaher Al-Hamdan,Female,1/6/1999,Jordanian,Dhahran,579677116,jawaher.alhamdan36@email.com,7/28/2022,Active,3/10/2023,147,4741.36,3.56,Mada,Gold,No
+RDR000279,Nawaf Al-Baker,Male,7/11/1995,Saudi,Mecca,591358784,nawaf.albaker97@email.com,4/30/2020,Active,3/10/2023,499,9073.61,4.16,Debit Card,Diamond,No
+RDR000280,Sami Al-Ghamdi,Male,8/15/1981,Saudi,Jeddah,582454722,sami.alghamdi69@email.com,4/27/2021,Active,3/10/2023,521,20303.24,4.63,Credit Card,Diamond,No
+RDR000281,Mubarak Al-Rashid,Male,2/5/1985,Saudi,Khobar,570914632,mubarak.alrashid38@email.com,4/12/2021,Active,3/10/2023,585,24885.82,4.14,Cash,Diamond,No
+RDR000282,Hamed Al-Anazi,Male,6/20/1978,Saudi,Taif,557475650,hamed.alanazi11@email.com,12/13/2021,Active,3/10/2023,141,5263.29,4.99,Mada,Gold,No
+RDR000283,Abdullah Al-Hamdan,Male,4/26/1978,Saudi,Mecca,552253072,abdullah.alhamdan5@email.com,9/7/2024,Active,3/10/2023,465,13020.62,4.45,Cash,Diamond,No
+RDR000284,Mona Al-Jasser,Female,4/5/1978,Saudi,Riyadh,545606090,mona.aljasser61@email.com,2/2/2019,Active,3/10/2023,601,11745.34,4.06,Debit Card,Diamond,No
+RDR000285,Jawaher Al-Shehri,Female,12/25/1988,Saudi,Medina,575859451,jawaher.alshehri72@email.com,12/30/2019,Active,3/10/2023,741,24702.36,4.62,Credit Card,Diamond,No
+RDR000286,Ziyad Al-Farsi,Male,9/1/1984,Yemeni,Tabuk,534167825,ziyad.alfarsi39@email.com,4/7/2023,Active,3/10/2023,241,9693.2,4.46,Cash,Platinum,No
+RDR000287,Wadha Al-Mohammed,Female,6/4/2003,Saudi,Dhahran,566316956,wadha.almohammed58@email.com,9/14/2025,Active,3/10/2023,493,12207.62,3.94,Debit Card,Diamond,No
+RDR000288,Turki Al-Kaabi,Male,7/10/1986,Filipino,Khobar,565298095,turki.alkaabi88@email.com,4/10/2020,Active,3/10/2023,408,8994.69,4.56,Cash,Diamond,No
+RDR000289,Hind Al-Khalid,Female,11/28/1990,Indian,Medina,567069281,hind.alkhalid52@email.com,8/3/2023,Inactive,6/24/2025,34,775.91,4.51,Cash,Silver,Yes
+RDR000290,Ghada Al-Rajhi,Female,6/2/1984,Saudi,Riyadh,593924534,ghada.alrajhi15@email.com,6/17/2022,Active,3/10/2023,227,9860.05,4.36,Debit Card,Platinum,No
+RDR000291,Maha Al-Saif,Female,11/7/1976,Egyptian,Abha,557338677,maha.alsaif99@email.com,3/23/2019,Active,3/10/2023,22,835.57,4.7,Credit Card,Silver,Yes
+RDR000292,Majed Al-Turki,Male,3/6/1998,Saudi,Abha,531663301,majed.alturki48@email.com,3/23/2021,Active,3/10/2023,549,13694.84,4.09,Mada,Diamond,No
+RDR000293,Ali Al-Saud,Male,9/18/1986,Saudi,Riyadh,531064869,ali.alsaud37@email.com,3/24/2019,Active,3/10/2023,540,12983.76,3.65,Cash,Diamond,No
+RDR000294,Ali Al-Otaibi,Male,5/9/1996,Saudi,Dammam,520271291,ali.alotaibi10@email.com,5/21/2020,Active,3/10/2023,387,11662.36,4.48,Debit Card,Diamond,No
+RDR000295,Aisha Al-Saud,Female,10/1/1999,Filipino,Abha,551901392,aisha.alsaud42@email.com,10/13/2025,Active,3/10/2023,98,2719.95,4.6,Cash,Gold,No
+RDR000296,Hind Al-Kaabi,Female,5/27/1995,Jordanian,Medina,522490623,hind.alkaabi29@email.com,2/13/2020,Active,3/10/2023,672,29572.43,4.36,Cash,Diamond,Yes
+RDR000297,Jawaher Al-Zamil,Female,12/12/1983,Sudanese,Abha,524536356,jawaher.alzamil58@email.com,9/28/2021,Active,3/10/2023,509,11056.41,4.59,Apple Pay,Diamond,No
+RDR000298,Ghada Al-Marri,Female,3/17/1980,Saudi,Khobar,522802899,ghada.almarri72@email.com,5/6/2024,Active,3/10/2023,659,13231.19,3.97,Debit Card,Diamond,No
+RDR000299,Amal Al-Mutairi,Female,1/14/1998,Saudi,Mecca,576225408,amal.almutairi33@email.com,7/10/2023,Active,3/10/2023,485,13267.54,4.29,Cash,Diamond,No
+RDR000300,Fahad Al-Hamdan,Male,3/28/1983,Indian,Tabuk,583227680,fahad.alhamdan64@email.com,9/18/2025,Active,3/10/2023,6,146.34,3.9,Debit Card,Silver,No
+RDR000301,Rashed Al-Kaabi,Male,10/2/2003,Jordanian,Taif,520402470,rashed.alkaabi49@email.com,10/8/2024,Active,3/10/2023,758,14264.4,4.99,Credit Card,Diamond,No
+RDR000302,Bander Al-Sabah,Male,4/2/1986,Saudi,Jeddah,594042431,bander.alsabah68@email.com,11/11/2020,Active,3/10/2023,117,3465.05,3.56,Cash,Gold,No
+RDR000303,Yara Al-Saud,Female,4/21/1996,Pakistani,Dammam,553269935,yara.alsaud79@email.com,4/26/2020,Active,3/10/2023,302,12589.28,4.58,Mada,Diamond,Yes
+RDR000304,Sultan Al-Baker,Male,3/12/1997,Indian,Abha,572126724,sultan.albaker27@email.com,4/17/2021,Active,3/10/2023,732,31539.01,4.06,Cash,Diamond,No
+RDR000305,Bander Al-Sabah,Male,3/19/2008,Saudi,Taif,535189235,bander.alsabah26@email.com,2/10/2019,Active,3/10/2023,184,6591.13,3.73,Credit Card,Platinum,No
+RDR000306,Joud Al-Dosari,Female,4/29/1998,Egyptian,Riyadh,594399027,joud.aldosari2@email.com,4/3/2024,Active,3/10/2023,69,2955.71,4.03,Cash,Gold,Yes
+RDR000307,Shatha Al-Turki,Female,5/18/1999,Saudi,Tabuk,589542677,shatha.alturki20@email.com,7/10/2023,Active,3/10/2023,575,10401.34,4.31,Mada,Diamond,Yes
+RDR000308,Ibrahim Al-Mazrou,Male,8/27/1993,Filipino,Jeddah,589479708,ibrahim.almazrou78@email.com,6/2/2020,Active,3/10/2023,602,14036.91,4.47,Cash,Diamond,No
+RDR000309,Samar Al-Malki,Female,11/22/2001,Saudi,Riyadh,532121549,samar.almalki61@email.com,8/7/2021,Active,3/10/2023,94,3876.41,4.89,Cash,Gold,Yes
+RDR000310,Nasser Al-Khalid,Male,8/31/1997,Pakistani,Taif,562780673,nasser.alkhalid49@email.com,10/9/2023,Active,3/10/2023,335,12802.89,3.95,Credit Card,Diamond,No
+RDR000311,Tala Al-Saleh,Female,1/14/1980,Saudi,Abha,529177565,tala.alsaleh56@email.com,7/22/2022,Active,3/10/2023,620,19725.04,4.76,Debit Card,Diamond,Yes
+RDR000312,Reem Al-Jasser,Female,12/11/1992,Sudanese,Dhahran,566918776,reem.aljasser28@email.com,11/27/2022,Active,3/10/2023,375,12565.96,4.78,Mada,Diamond,No
+RDR000313,Mishal Al-Turki,Male,3/3/1982,Saudi,Mecca,554084020,mishal.alturki13@email.com,2/13/2019,Active,3/10/2023,370,15662.55,4.29,Credit Card,Diamond,No
+RDR000314,Fatima Al-Saif,Female,4/7/1977,Sudanese,Dammam,543962179,fatima.alsaif36@email.com,5/18/2019,Active,3/10/2023,658,22212.84,4.22,Credit Card,Diamond,No
+RDR000315,Khalil Al-Saif,Male,10/21/2003,Saudi,Taif,559597995,khalil.alsaif4@email.com,7/1/2024,Active,3/10/2023,768,25641.69,4.81,Cash,Diamond,No
+RDR000316,Turki Al-Shehri,Male,8/3/1976,Saudi,Jeddah,552176116,turki.alshehri13@email.com,9/15/2023,Active,3/10/2023,123,5010.62,3.58,Mada,Gold,No
+RDR000317,Mona Al-Muhanna,Female,2/21/1982,Sudanese,Riyadh,559158124,mona.almuhanna67@email.com,9/24/2022,Active,3/10/2023,325,5013.17,4.85,Debit Card,Diamond,No
+RDR000318,Noura Al-Harbi,Female,6/20/2006,Saudi,Medina,591675383,noura.alharbi26@email.com,8/16/2024,Active,3/10/2023,274,9771.25,3.63,Cash,Platinum,Yes
+RDR000319,Saleh Al-Khalifa,Male,8/8/2004,Filipino,Abha,572143529,saleh.alkhalifa12@email.com,12/7/2022,Active,3/10/2023,478,8837.19,4.35,Mada,Diamond,No
+RDR000320,Turki Al-Mutairi,Male,9/16/1998,Yemeni,Mecca,560268506,turki.almutairi59@email.com,7/24/2022,Active,3/10/2023,21,366.2,4.65,Credit Card,Silver,No
+RDR000321,Saleh Al-Fahad,Male,4/24/1994,Jordanian,Mecca,540327888,saleh.alfahad25@email.com,6/25/2022,Inactive,8/7/2025,23,533.23,3.92,Cash,Silver,No
+RDR000322,Turki Al-Baker,Male,10/25/1992,Yemeni,Dammam,580201607,turki.albaker58@email.com,12/6/2023,Active,3/10/2023,502,20022.27,4.03,Apple Pay,Diamond,No
+RDR000323,Fahad Al-Rumaih,Male,11/26/1992,Yemeni,Dhahran,548747182,fahad.alrumaih27@email.com,9/29/2020,Active,3/10/2023,216,5457.33,4.99,Cash,Platinum,No
+RDR000324,Lama Al-Khalid,Female,4/9/1985,Yemeni,Medina,594706642,lama.alkhalid24@email.com,11/23/2021,Active,3/10/2023,268,7840.69,3.55,Credit Card,Platinum,Yes
+RDR000325,Razan Al-Mazrou,Female,5/14/1992,Saudi,Dhahran,531307131,razan.almazrou54@email.com,8/7/2025,Active,3/10/2023,331,9686.67,4.55,Mada,Diamond,Yes
+RDR000326,Turki Al-Sulaiman,Male,10/21/1980,Indian,Dammam,589668254,turki.alsulaiman74@email.com,10/28/2020,Active,3/10/2023,191,6844.48,4.63,Cash,Platinum,No
+RDR000327,Aljohara Al-Mahmoud,Female,8/31/2006,Saudi,Dammam,578043121,aljohara.almahmoud14@email.com,3/9/2023,Active,3/10/2023,495,13676.64,4.52,Apple Pay,Diamond,No
+RDR000328,Aisha Al-Malki,Female,7/25/1999,Filipino,Abha,528729977,aisha.almalki17@email.com,11/12/2020,Active,3/10/2023,612,21360.14,4.95,Cash,Diamond,No
+RDR000329,Saad Al-Saleh,Male,11/6/2001,Saudi,Mecca,533094634,saad.alsaleh39@email.com,11/18/2022,Active,3/10/2023,170,4118.39,4.19,Mada,Platinum,No
+RDR000330,Ali Al-Nasser,Male,3/29/2008,Indian,Dhahran,531384884,ali.alnasser45@email.com,1/5/2020,Active,3/10/2023,158,2843.59,4.53,Apple Pay,Platinum,No
+RDR000331,Samar Al-Ali,Female,9/13/2002,Egyptian,Dhahran,527921592,samar.alali52@email.com,3/13/2024,Active,3/10/2023,782,29870.69,4.88,Cash,Diamond,No
+RDR000332,Yara Al-Zamil,Female,7/9/1998,Filipino,Jeddah,533912234,yara.alzamil99@email.com,11/21/2022,Active,3/10/2023,759,16739.54,4.96,Credit Card,Diamond,Yes
+RDR000333,Thamer Al-Harbi,Male,4/19/2004,Egyptian,Medina,561548537,thamer.alharbi84@email.com,7/19/2020,Active,3/10/2023,46,938.23,3.82,Cash,Silver,No
+RDR000334,Waleed Al-Saleh,Male,9/10/2003,Indian,Dhahran,521091816,waleed.alsaleh45@email.com,5/22/2024,Inactive,10/1/2025,21,747.22,4.1,Cash,Silver,No
+RDR000335,Thamer Al-Saud,Male,12/12/2007,Indian,Mecca,597753863,thamer.alsaud86@email.com,7/30/2022,Active,3/10/2023,520,14066.57,4.08,Cash,Diamond,No
+RDR000336,Saleh Al-Anazi,Male,7/11/1976,Egyptian,Dammam,581809727,saleh.alanazi47@email.com,4/19/2020,Active,3/10/2023,462,8477.78,4.25,Cash,Diamond,No
+RDR000337,Badr Al-Zamil,Male,12/28/1981,Saudi,Dhahran,536523174,badr.alzamil66@email.com,11/24/2019,Active,3/10/2023,346,13627.23,4.92,Mada,Diamond,No
+RDR000338,Raghad Al-Qahtani,Female,9/4/1977,Egyptian,Taif,543866730,raghad.alqahtani55@email.com,2/27/2022,Inactive,12/25/2024,59,1482.31,4.05,Cash,Gold,Yes
+RDR000339,Sami Al-Ahmadi,Male,11/13/2006,Filipino,Dammam,524989876,sami.alahmadi46@email.com,1/1/2023,Active,3/10/2023,458,16926.37,3.99,Mada,Diamond,No
+RDR000340,Amal Al-Ahmadi,Female,2/15/1989,Saudi,Jeddah,556356961,amal.alahmadi59@email.com,12/31/2024,Active,3/10/2023,745,26573.97,3.72,Cash,Diamond,Yes
+RDR000341,Sarah Al-Harbi,Female,12/6/2004,Egyptian,Khobar,595461939,sarah.alharbi96@email.com,3/7/2023,Inactive,11/10/2025,49,1178.92,4.27,Mada,Silver,Yes
+RDR000342,Ibrahim Al-Mutairi,Male,11/7/1980,Pakistani,Dhahran,582364511,ibrahim.almutairi32@email.com,4/21/2020,Active,3/10/2023,585,20959.21,3.89,Apple Pay,Diamond,No
+RDR000343,Meshari Al-Mazrou,Male,2/19/2000,Saudi,Taif,577318657,meshari.almazrou86@email.com,5/31/2021,Active,3/10/2023,448,7334.77,3.91,Mada,Diamond,No
+RDR000344,Hanan Al-Baker,Female,8/23/2002,Saudi,Dammam,545843284,hanan.albaker60@email.com,1/21/2019,Active,3/10/2023,20,659.45,4.67,Mada,Silver,No
+RDR000345,Rana Al-Hassan,Female,7/11/1976,Filipino,Medina,571826611,rana.alhassan76@email.com,3/16/2019,Active,3/10/2023,227,6270.41,3.6,Apple Pay,Platinum,Yes
+RDR000346,Aljohara Al-Jasser,Female,9/29/1987,Sudanese,Riyadh,576971243,aljohara.aljasser27@email.com,11/5/2022,Active,3/10/2023,355,10993.36,4.73,Debit Card,Diamond,Yes
+RDR000347,Wafa Al-Faisal,Female,9/26/2004,Saudi,Riyadh,581080601,wafa.alfaisal48@email.com,5/29/2025,Active,3/10/2023,647,15606.28,4.23,Apple Pay,Diamond,No
+RDR000348,Anoud Al-Rashid,Female,6/1/2007,Saudi,Mecca,584684043,anoud.alrashid96@email.com,7/23/2025,Active,3/10/2023,361,10729.9,4.35,Cash,Diamond,Yes
+RDR000349,Mishal Al-Saif,Male,6/27/1995,Saudi,Jeddah,531356391,mishal.alsaif99@email.com,2/2/2020,Active,3/10/2023,217,8316.69,4.99,Cash,Platinum,No
+RDR000350,Sadeem Al-Sulaiman,Female,3/11/1980,Saudi,Medina,599152055,sadeem.alsulaiman88@email.com,9/9/2023,Active,3/10/2023,286,12528.85,3.98,Apple Pay,Platinum,No
+RDR000351,Yara Al-Hassan,Female,6/4/2001,Saudi,Dhahran,563694387,yara.alhassan37@email.com,7/19/2024,Active,3/10/2023,294,4439.44,4.74,Cash,Platinum,No
+RDR000352,Hanan Al-Dosari,Female,3/1/2007,Filipino,Dhahran,540090623,hanan.aldosari18@email.com,7/4/2025,Active,3/10/2023,429,14281.92,4.12,Mada,Diamond,Yes
+RDR000353,Ziyad Al-Rashid,Male,5/20/2004,Egyptian,Khobar,513049361,ziyad.alrashid96@email.com,11/2/2025,Active,3/10/2023,583,19262.48,4.44,Mada,Diamond,No
+RDR000354,Mona Al-Malki,Female,7/3/1999,Egyptian,Taif,527803989,mona.almalki38@email.com,2/20/2023,Active,3/10/2023,246,4168.32,3.76,Mada,Platinum,Yes
+RDR000355,Anoud Al-Mahmoud,Female,9/11/1979,Saudi,Tabuk,591068419,anoud.almahmoud43@email.com,12/23/2023,Active,3/10/2023,182,7491.59,4.96,Cash,Platinum,No
+RDR000356,Jasser Al-Harbi,Male,3/7/1991,Saudi,Riyadh,565980819,jasser.alharbi34@email.com,5/13/2019,Active,3/10/2023,417,17305.8,4.8,Cash,Diamond,No
+RDR000357,Mohammed Al-Marri,Male,9/4/2006,Egyptian,Taif,563610511,mohammed.almarri92@email.com,9/2/2019,Active,3/10/2023,408,17471.25,4.74,Mada,Diamond,No
+RDR000358,Raghad Al-Zahrani,Female,11/19/2000,Egyptian,Jeddah,565417567,raghad.alzahrani85@email.com,8/20/2020,Active,3/10/2023,777,19576.55,4.74,Credit Card,Diamond,No
+RDR000359,Samar Al-Farsi,Female,6/1/1986,Saudi,Jeddah,544896549,samar.alfarsi44@email.com,9/13/2022,Active,3/10/2023,76,1813.27,4.19,Mada,Gold,Yes
+RDR000360,Wafa Al-Mazrou,Female,10/30/1991,Filipino,Dammam,558684022,wafa.almazrou92@email.com,8/31/2025,Inactive,10/17/2025,67,1590.35,3.93,Debit Card,Gold,No
+RDR000361,Saleh Al-Ali,Male,5/9/1995,Jordanian,Taif,544534994,saleh.alali82@email.com,4/22/2022,Active,3/10/2023,712,15548.33,3.69,Cash,Diamond,No
+RDR000362,Saleh Al-Ghamdi,Male,4/5/1990,Indian,Tabuk,593008294,saleh.alghamdi22@email.com,2/19/2019,Active,3/10/2023,739,32643.18,4.26,Cash,Diamond,No
+RDR000363,Rashed Al-Sabah,Male,11/4/1986,Saudi,Khobar,574961168,rashed.alsabah49@email.com,3/29/2023,Active,3/10/2023,497,7667.21,4.47,Cash,Diamond,No
+RDR000364,Hamad Al-Hassan,Male,2/6/2003,Yemeni,Dammam,536433135,hamad.alhassan46@email.com,4/25/2021,Active,3/10/2023,285,8539.66,4.41,Mada,Platinum,No
+RDR000365,Hassan Al-Fahad,Male,6/14/2005,Saudi,Khobar,584260585,hassan.alfahad69@email.com,5/15/2019,Active,3/10/2023,102,4120.61,4.93,Cash,Gold,No
+RDR000366,Khalid Al-Marri,Male,7/11/1977,Yemeni,Tabuk,542895027,khalid.almarri30@email.com,11/11/2024,Active,3/10/2023,263,9386.24,4.7,Debit Card,Platinum,No
+RDR000367,Hanan Al-Otaibi,Female,8/10/2005,Saudi,Tabuk,580136507,hanan.alotaibi39@email.com,12/24/2021,Active,3/10/2023,94,1581.64,4.61,Mada,Gold,Yes
+RDR000368,Anoud Al-Dosari,Female,3/30/2003,Indian,Abha,521191907,anoud.aldosari61@email.com,7/29/2019,Active,3/10/2023,650,13599.23,3.61,Cash,Diamond,Yes
+RDR000369,Mubarak Al-Saleh,Male,8/22/1979,Saudi,Tabuk,589045858,mubarak.alsaleh82@email.com,2/9/2019,Active,3/10/2023,115,3844.73,4.58,Cash,Gold,No
+RDR000370,Fatima Al-Farsi,Female,10/14/1986,Pakistani,Dhahran,548085045,fatima.alfarsi83@email.com,9/29/2025,Active,3/10/2023,647,15520.96,3.76,Cash,Diamond,No
+RDR000371,Hamad Al-Khalifa,Male,8/5/1986,Saudi,Abha,552843311,hamad.alkhalifa66@email.com,8/22/2024,Active,3/10/2023,451,13130.95,3.67,Debit Card,Diamond,No
+RDR000372,Turki Al-Harbi,Male,4/21/1984,Saudi,Dhahran,535983948,turki.alharbi14@email.com,6/1/2022,Active,3/10/2023,454,17200.05,4.01,Mada,Diamond,No
+RDR000373,Saleh Al-Khalid,Male,2/14/1981,Saudi,Dammam,586639453,saleh.alkhalid87@email.com,8/3/2022,Active,3/10/2023,484,9504.76,3.65,Apple Pay,Diamond,No
+RDR000374,Faisal Al-Faisal,Male,3/19/1987,Yemeni,Mecca,589890370,faisal.alfaisal54@email.com,10/8/2020,Active,3/10/2023,161,6181.22,3.99,Cash,Platinum,No
+RDR000375,Ghada Al-Farsi,Female,4/27/1994,Indian,Taif,551341326,ghada.alfarsi55@email.com,5/28/2022,Active,3/10/2023,314,10016.16,4,Apple Pay,Diamond,No
+RDR000376,Thamer Al-Qahtani,Male,8/4/2007,Sudanese,Dhahran,537140582,thamer.alqahtani27@email.com,12/19/2022,Active,3/10/2023,144,5020.08,4.96,Apple Pay,Gold,No
+RDR000377,Jawaher Al-Turki,Female,7/9/1999,Saudi,Riyadh,592886941,jawaher.alturki65@email.com,8/11/2022,Active,3/10/2023,392,11055.61,3.99,Cash,Diamond,Yes
+RDR000378,Ali Al-Malki,Male,11/20/1978,Jordanian,Khobar,575369583,ali.almalki32@email.com,5/18/2024,Active,3/10/2023,608,14229.8,4.2,Credit Card,Diamond,No
+RDR000379,Noura Al-Dosari,Female,6/26/2003,Indian,Riyadh,528023391,noura.aldosari96@email.com,11/4/2022,Active,3/10/2023,379,6526.25,4.16,Apple Pay,Diamond,No
+RDR000380,Lina Al-Ghamdi,Female,10/4/1993,Filipino,Tabuk,583361416,lina.alghamdi98@email.com,5/9/2022,Active,3/10/2023,576,20056.74,3.63,Debit Card,Diamond,Yes
+RDR000381,Aisha Al-Shehri,Female,10/30/1998,Saudi,Jeddah,553119744,aisha.alshehri60@email.com,7/9/2022,Active,3/10/2023,370,8077.27,4.86,Cash,Diamond,Yes
+RDR000382,Ibrahim Al-Farsi,Male,8/25/1986,Saudi,Tabuk,580920296,ibrahim.alfarsi8@email.com,4/5/2019,Active,3/10/2023,658,27892.27,4.12,Cash,Diamond,No
+RDR000383,Aisha Al-Mazrou,Female,10/15/1995,Filipino,Dhahran,554795511,aisha.almazrou82@email.com,5/12/2019,Active,3/10/2023,335,5699.45,4.69,Cash,Diamond,Yes
+RDR000384,Yousef Al-Zamil,Male,2/6/1981,Yemeni,Mecca,535620480,yousef.alzamil97@email.com,10/4/2024,Active,3/10/2023,90,1547.33,4.36,Cash,Gold,No
+RDR000385,Hind Al-Kaabi,Female,3/22/1993,Indian,Taif,580828569,hind.alkaabi89@email.com,9/15/2020,Active,3/10/2023,75,2788.78,3.77,Cash,Gold,No
+RDR000386,Thamer Al-Mazrou,Male,1/2/1994,Jordanian,Dammam,530199086,thamer.almazrou34@email.com,1/27/2019,Active,3/10/2023,400,16266.9,3.53,Debit Card,Diamond,No
+RDR000387,Anoud Al-Fahad,Female,12/29/1999,Saudi,Tabuk,537668202,anoud.alfahad40@email.com,12/23/2022,Active,3/10/2023,733,14988.09,4.8,Debit Card,Diamond,Yes
+RDR000388,Nasser Al-Zamil,Male,2/5/1999,Saudi,Khobar,550658510,nasser.alzamil21@email.com,10/11/2019,Active,3/10/2023,323,8956.31,4.89,Mada,Diamond,No
+RDR000389,Ghada Al-Nasser,Female,4/29/2007,Indian,Khobar,537995717,ghada.alnasser49@email.com,4/22/2019,Active,3/10/2023,451,7430.87,3.68,Cash,Diamond,Yes
+RDR000390,Majed Al-Mansour,Male,4/18/1985,Saudi,Tabuk,531861785,majed.almansour97@email.com,5/25/2020,Active,3/10/2023,180,3832.05,4.26,Cash,Platinum,No
+RDR000391,Tala Al-Hamdan,Female,1/9/1987,Saudi,Dhahran,578281290,tala.alhamdan15@email.com,2/21/2021,Active,3/10/2023,93,4031.26,4.7,Apple Pay,Gold,Yes
+RDR000392,Sadeem Al-Faisal,Female,3/21/1979,Saudi,Jeddah,540784021,sadeem.alfaisal90@email.com,12/23/2022,Active,3/10/2023,318,5575.67,4.75,Cash,Diamond,No
+RDR000393,Aljohara Al-Rashid,Female,3/14/1985,Saudi,Dammam,528820058,aljohara.alrashid89@email.com,8/17/2022,Inactive,2/7/2024,23,669.17,4.35,Debit Card,Silver,Yes
+RDR000394,Waleed Al-Turki,Male,9/3/2001,Sudanese,Tabuk,599747074,waleed.alturki24@email.com,8/27/2023,Active,3/10/2023,430,11159.38,3.76,Cash,Diamond,No
+RDR000395,Bander Al-Rashid,Male,7/26/1980,Egyptian,Taif,513822276,bander.alrashid4@email.com,4/15/2021,Active,3/10/2023,641,15991.32,4.06,Apple Pay,Diamond,No
+RDR000396,Sarah Al-Ghamdi,Female,11/6/2000,Saudi,Dhahran,523437241,sarah.alghamdi2@email.com,7/10/2019,Active,3/10/2023,781,19884.25,4.4,Cash,Diamond,Yes
+RDR000397,Huda Al-Zahrani,Female,11/24/1979,Saudi,Taif,551799545,huda.alzahrani61@email.com,3/17/2024,Active,3/10/2023,550,15996.54,4.16,Cash,Diamond,No
+RDR000398,Rashed Al-Zamil,Male,11/3/1982,Saudi,Khobar,526889016,rashed.alzamil29@email.com,11/18/2025,Active,3/10/2023,99,3013.76,4.22,Mada,Gold,No
+RDR000399,Hassan Al-Mutairi,Male,3/22/1997,Saudi,Jeddah,598499057,hassan.almutairi39@email.com,7/13/2023,Active,3/10/2023,630,15661.03,3.66,Debit Card,Diamond,No
+RDR000400,Hind Al-Shehri,Female,3/12/1991,Yemeni,Khobar,516444924,hind.alshehri26@email.com,9/25/2023,Active,3/10/2023,149,6613.5,4.37,Credit Card,Gold,Yes
+RDR000401,Ali Al-Malki,Male,4/6/1980,Filipino,Dhahran,564446341,ali.almalki58@email.com,8/14/2022,Inactive,5/24/2025,62,2776.42,4.79,Debit Card,Gold,No
+RDR000402,Wafa Al-Zamil,Female,5/3/1993,Saudi,Taif,544263695,wafa.alzamil44@email.com,4/27/2020,Active,3/10/2023,672,26348.89,4.65,Apple Pay,Diamond,Yes
+RDR000403,Rana Al-Rajhi,Female,10/20/2002,Saudi,Abha,540484208,rana.alrajhi59@email.com,12/12/2021,Inactive,1/29/2024,55,2194.63,4.46,Cash,Gold,Yes
+RDR000404,Maha Al-Sulaiman,Female,4/10/2000,Jordanian,Dammam,578572457,maha.alsulaiman25@email.com,1/28/2024,Active,3/10/2023,85,1636.36,4.95,Cash,Gold,No
+RDR000405,Faisal Al-Sulaiman,Male,5/11/2006,Pakistani,Abha,558674884,faisal.alsulaiman70@email.com,9/27/2025,Active,3/10/2023,577,12643.63,4.79,Cash,Diamond,No
+RDR000406,Meshari Al-Malki,Male,8/23/2001,Pakistani,Jeddah,591827925,meshari.almalki55@email.com,11/9/2020,Active,3/10/2023,634,25834.77,3.84,Mada,Diamond,No
+RDR000407,Noura Al-Faisal,Female,1/9/1994,Saudi,Dammam,550264407,noura.alfaisal1@email.com,5/16/2023,Active,3/10/2023,432,7450.32,4.84,Cash,Diamond,No
+RDR000408,Samar Al-Muhanna,Female,8/3/1997,Jordanian,Tabuk,531400078,samar.almuhanna83@email.com,10/1/2019,Inactive,2/17/2022,18,496.27,3.72,Debit Card,Silver,Yes
+RDR000409,Nawaf Al-Harbi,Male,3/8/1982,Yemeni,Medina,530380452,nawaf.alharbi27@email.com,2/5/2022,Active,3/10/2023,412,11660.19,3.69,Mada,Diamond,No
+RDR000410,Maram Al-Saud,Female,5/2/1987,Saudi,Jeddah,598640264,maram.alsaud57@email.com,11/2/2024,Active,3/10/2023,106,2540.25,4.66,Cash,Gold,Yes
+RDR000411,Lina Al-Harbi,Female,5/28/2003,Yemeni,Khobar,572616017,lina.alharbi55@email.com,1/19/2022,Active,3/10/2023,42,1367.07,4.07,Apple Pay,Silver,No
+RDR000412,Jawaher Al-Hassan,Female,3/14/1992,Saudi,Abha,599242791,jawaher.alhassan64@email.com,2/27/2020,Active,3/10/2023,750,30075.96,4.4,Cash,Diamond,No
+RDR000413,Noura Al-Dosari,Female,7/19/1978,Saudi,Dammam,557870268,noura.aldosari11@email.com,2/3/2022,Active,3/10/2023,656,10094.39,4.26,Cash,Diamond,No
+RDR000414,Amal Al-Rumaih,Female,7/31/1986,Pakistani,Taif,591421925,amal.alrumaih73@email.com,6/25/2021,Active,3/10/2023,682,17919.33,3.9,Mada,Diamond,Yes
+RDR000415,Sarah Al-Saif,Female,3/16/2004,Saudi,Jeddah,542026271,sarah.alsaif47@email.com,8/15/2025,Active,3/10/2023,659,21354.01,4.93,Cash,Diamond,No
+RDR000416,Yara Al-Otaibi,Female,7/31/1990,Yemeni,Khobar,567954859,yara.alotaibi86@email.com,12/9/2023,Active,3/10/2023,588,24838.55,4.8,Credit Card,Diamond,Yes
+RDR000417,Mohammed Al-Rajhi,Male,5/18/1992,Yemeni,Jeddah,556177572,mohammed.alrajhi46@email.com,4/12/2022,Active,3/10/2023,30,1326.22,4.59,Apple Pay,Silver,No
+RDR000418,Sami Al-Marri,Male,1/27/1999,Pakistani,Riyadh,583454371,sami.almarri83@email.com,8/22/2022,Active,3/10/2023,651,16051.34,3.89,Debit Card,Diamond,No
+RDR000419,Tala Al-Ahmadi,Female,4/7/1994,Saudi,Taif,523596009,tala.alahmadi93@email.com,12/31/2019,Active,3/10/2023,632,11194.6,4.31,Debit Card,Diamond,Yes
+RDR000420,Hanan Al-Mansour,Female,4/1/1992,Saudi,Medina,532621484,hanan.almansour42@email.com,12/20/2021,Active,3/10/2023,498,7707.95,4.03,Cash,Diamond,Yes
+RDR000421,Jawaher Al-Jasser,Female,5/27/2004,Sudanese,Abha,590258091,jawaher.aljasser85@email.com,12/29/2020,Active,3/10/2023,713,19350.19,3.61,Credit Card,Diamond,Yes
+RDR000422,Tala Al-Faisal,Female,12/12/1980,Filipino,Mecca,521034254,tala.alfaisal42@email.com,4/27/2023,Active,3/10/2023,754,33917.31,4.72,Apple Pay,Diamond,Yes
+RDR000423,Ali Al-Jasser,Male,5/2/1998,Indian,Mecca,596959001,ali.aljasser28@email.com,1/26/2022,Inactive,5/30/2023,89,1723.16,4.97,Debit Card,Gold,No
+RDR000424,Amal Al-Rashid,Female,11/4/1999,Jordanian,Tabuk,534972287,amal.alrashid67@email.com,6/2/2024,Active,3/10/2023,425,13781.42,4.33,Cash,Diamond,No
+RDR000425,Wafa Al-Turki,Female,1/3/2005,Sudanese,Dammam,528051318,wafa.alturki42@email.com,11/2/2023,Active,3/10/2023,241,9832.4,3.98,Apple Pay,Platinum,No
+RDR000426,Nasser Al-Dosari,Male,3/31/1998,Sudanese,Abha,556753777,nasser.aldosari92@email.com,5/2/2024,Active,3/10/2023,108,3894.95,4.71,Cash,Gold,No
+RDR000427,Jasser Al-Khalifa,Male,7/25/2005,Saudi,Tabuk,512968249,jasser.alkhalifa72@email.com,8/6/2019,Active,3/10/2023,449,12775.87,4.25,Cash,Diamond,No
+RDR000428,Nawaf Al-Ali,Male,11/28/1982,Saudi,Mecca,513701318,nawaf.alali92@email.com,9/19/2019,Active,3/10/2023,67,2206.45,4.93,Apple Pay,Gold,No
+RDR000429,Maha Al-Faisal,Female,1/12/1998,Filipino,Medina,578176556,maha.alfaisal53@email.com,1/26/2024,Active,3/10/2023,714,13799.47,4.51,Apple Pay,Diamond,Yes
+RDR000430,Fatima Al-Muhanna,Female,8/11/2005,Pakistani,Riyadh,565527409,fatima.almuhanna94@email.com,1/7/2023,Active,3/10/2023,794,15749.96,4.97,Cash,Diamond,Yes
+RDR000431,Turki Al-Rashid,Male,1/8/1977,Yemeni,Taif,562002811,turki.alrashid53@email.com,5/4/2020,Active,3/10/2023,97,2564.56,4.92,Cash,Gold,No
+RDR000432,Maha Al-Rajhi,Female,1/19/1986,Saudi,Mecca,534772080,maha.alrajhi34@email.com,1/28/2020,Active,3/10/2023,182,4921.8,4.56,Apple Pay,Platinum,Yes
+RDR000433,Hamad Al-Marri,Male,10/23/2005,Yemeni,Jeddah,560082940,hamad.almarri13@email.com,11/15/2024,Active,3/10/2023,621,12454.4,3.59,Cash,Diamond,No
+RDR000434,Ahmed Al-Hamdan,Male,9/24/2000,Saudi,Dhahran,595427135,ahmed.alhamdan80@email.com,6/8/2022,Inactive,9/13/2025,73,2186.06,4.06,Credit Card,Gold,No
+RDR000435,Nawaf Al-Dosari,Male,7/2/2000,Pakistani,Mecca,529978275,nawaf.aldosari57@email.com,9/22/2025,Active,3/10/2023,182,2895.67,4.84,Mada,Platinum,No
+RDR000436,Yousef Al-Saleh,Male,12/29/2003,Indian,Dammam,535925455,yousef.alsaleh78@email.com,3/17/2020,Active,3/10/2023,185,3636.65,4.39,Debit Card,Platinum,No
+RDR000437,Anoud Al-Jasser,Female,6/2/1997,Egyptian,Dhahran,528975887,anoud.aljasser31@email.com,1/9/2024,Active,3/10/2023,685,30010.95,4.33,Apple Pay,Diamond,Yes
+RDR000438,Sarah Al-Sulaiman,Female,1/13/2004,Pakistani,Riyadh,522207568,sarah.alsulaiman85@email.com,5/21/2024,Active,3/10/2023,676,23419.43,4.56,Cash,Diamond,No
+RDR000439,Mona Al-Baker,Female,5/5/1989,Jordanian,Khobar,568403344,mona.albaker49@email.com,7/8/2020,Active,3/10/2023,203,3546.75,3.94,Mada,Platinum,Yes
+RDR000440,Rashed Al-Jasser,Male,10/12/1977,Sudanese,Taif,517397482,rashed.aljasser68@email.com,11/2/2025,Active,3/10/2023,510,20368.24,4.99,Apple Pay,Diamond,No
+RDR000441,Saad Al-Saleh,Male,7/1/1984,Saudi,Tabuk,516336089,saad.alsaleh39@email.com,5/28/2025,Active,3/10/2023,657,17441.41,3.97,Credit Card,Diamond,No
+RDR000442,Noura Al-Anazi,Female,6/17/2006,Saudi,Abha,523240677,noura.alanazi59@email.com,11/16/2024,Active,3/10/2023,521,22662.94,4.06,Mada,Diamond,No
+RDR000443,Huda Al-Nasser,Female,3/23/1999,Sudanese,Taif,525613685,huda.alnasser38@email.com,4/26/2021,Active,3/10/2023,628,9509.28,3.52,Cash,Diamond,Yes
+RDR000444,Hanan Al-Mansour,Female,8/10/1981,Saudi,Medina,593451717,hanan.almansour86@email.com,3/3/2023,Active,3/10/2023,412,9371.17,3.57,Debit Card,Diamond,No
+RDR000445,Samar Al-Khalifa,Female,7/26/1986,Saudi,Dhahran,590548035,samar.alkhalifa2@email.com,2/11/2019,Active,3/10/2023,424,14329.55,4.07,Debit Card,Diamond,Yes
+RDR000446,Maha Al-Hassan,Female,10/12/1993,Saudi,Jeddah,544426734,maha.alhassan88@email.com,4/13/2020,Active,3/10/2023,501,18261.8,3.6,Cash,Diamond,No
+RDR000447,Jawaher Al-Baker,Female,8/1/2004,Pakistani,Tabuk,576836028,jawaher.albaker26@email.com,12/7/2021,Active,3/10/2023,123,2314.05,4.09,Debit Card,Gold,No
+RDR000448,Aljohara Al-Dosari,Female,6/10/2005,Saudi,Jeddah,568512034,aljohara.aldosari79@email.com,7/25/2021,Inactive,10/27/2023,24,627.05,3.63,Mada,Silver,No
+RDR000449,Sarah Al-Khalid,Female,2/25/1993,Saudi,Medina,533559104,sarah.alkhalid45@email.com,5/11/2021,Active,3/10/2023,45,1298.75,4.35,Debit Card,Silver,No
+RDR000450,Thamer Al-Mansour,Male,5/25/1993,Yemeni,Mecca,568904348,thamer.almansour4@email.com,4/10/2022,Active,3/10/2023,231,9503.37,3.78,Debit Card,Platinum,No
+RDR000451,Ali Al-Saif,Male,12/2/2005,Saudi,Abha,518741781,ali.alsaif53@email.com,3/24/2022,Active,3/10/2023,147,4489.59,4.32,Apple Pay,Gold,No
+RDR000452,Bander Al-Hamdan,Male,5/14/1991,Saudi,Khobar,585525880,bander.alhamdan8@email.com,6/7/2019,Active,3/10/2023,107,4217,4.53,Credit Card,Gold,No
+RDR000453,Hassan Al-Otaibi,Male,9/16/1977,Filipino,Tabuk,561911006,hassan.alotaibi58@email.com,2/12/2025,Inactive,5/2/2025,74,3130.74,4.47,Apple Pay,Gold,No
+RDR000454,Mubarak Al-Muhanna,Male,2/3/1988,Pakistani,Dammam,558336521,mubarak.almuhanna29@email.com,11/14/2022,Active,3/10/2023,652,12604.61,4.18,Debit Card,Diamond,No
+RDR000455,Mishal Al-Farsi,Male,7/22/2006,Indian,Mecca,565079123,mishal.alfarsi91@email.com,2/16/2023,Active,3/10/2023,443,18337.61,4.71,Debit Card,Diamond,No
+RDR000456,Thamer Al-Shehri,Male,3/5/1988,Indian,Khobar,562135917,thamer.alshehri60@email.com,5/2/2021,Active,3/10/2023,432,11191.74,4.83,Cash,Diamond,No
+RDR000457,Yara Al-Shehri,Female,11/21/1978,Filipino,Abha,558776722,yara.alshehri60@email.com,4/23/2021,Active,3/10/2023,730,22955.7,3.79,Debit Card,Diamond,No
+RDR000458,Razan Al-Saleh,Female,12/29/1994,Filipino,Medina,565313521,razan.alsaleh7@email.com,5/29/2023,Active,3/10/2023,112,2350.02,4.31,Cash,Gold,Yes
+RDR000459,Mishal Al-Sabah,Male,1/5/1983,Yemeni,Dhahran,533131189,mishal.alsabah35@email.com,1/8/2021,Active,3/10/2023,25,1112.72,4.54,Cash,Silver,No
+RDR000460,Thamer Al-Mazrou,Male,8/10/2002,Indian,Medina,552441605,thamer.almazrou79@email.com,9/9/2020,Active,3/10/2023,480,20635.49,3.87,Mada,Diamond,No
+RDR000461,Omar Al-Harbi,Male,6/18/1992,Saudi,Jeddah,530213583,omar.alharbi28@email.com,3/29/2019,Inactive,8/14/2019,43,1041.75,4.78,Apple Pay,Silver,No
+RDR000462,Meshari Al-Muhanna,Male,8/9/2000,Saudi,Khobar,550700248,meshari.almuhanna13@email.com,7/17/2025,Active,3/10/2023,458,17894.1,4.21,Mada,Diamond,No
+RDR000463,Sultan Al-Malki,Male,9/9/1983,Yemeni,Dhahran,573024306,sultan.almalki90@email.com,4/30/2020,Active,3/10/2023,634,28212.42,4.11,Cash,Diamond,No
+RDR000464,Yousef Al-Ghamdi,Male,6/13/1991,Indian,Taif,532878479,yousef.alghamdi99@email.com,2/2/2020,Active,3/10/2023,139,2168.21,4.82,Cash,Gold,No
+RDR000465,Nada Al-Rumaih,Female,1/15/1983,Egyptian,Tabuk,555604049,nada.alrumaih11@email.com,1/14/2021,Active,3/10/2023,21,873.49,4.96,Mada,Silver,Yes
+RDR000466,Saleh Al-Faisal,Male,1/29/1994,Saudi,Mecca,521149828,saleh.alfaisal46@email.com,3/30/2020,Active,3/10/2023,685,22662.8,3.8,Mada,Diamond,No
+RDR000467,Aisha Al-Muhanna,Female,6/8/1985,Saudi,Tabuk,579851147,aisha.almuhanna4@email.com,9/8/2023,Active,3/10/2023,374,11103.41,4.78,Debit Card,Diamond,No
+RDR000468,Ali Al-Saleh,Male,1/3/1979,Indian,Dammam,598504582,ali.alsaleh11@email.com,1/13/2024,Active,3/10/2023,346,8645.7,3.56,Mada,Diamond,No
+RDR000469,Nasser Al-Muhanna,Male,4/11/1977,Yemeni,Riyadh,546276862,nasser.almuhanna90@email.com,6/7/2025,Inactive,9/20/2025,61,1601.51,4.07,Credit Card,Gold,No
+RDR000470,Raghad Al-Shammari,Female,7/16/1986,Saudi,Khobar,545792181,raghad.alshammari11@email.com,6/26/2020,Active,3/10/2023,737,31249.33,3.89,Debit Card,Diamond,No
+RDR000471,Rashed Al-Khalid,Male,7/9/2000,Egyptian,Jeddah,518718672,rashed.alkhalid20@email.com,4/5/2019,Active,3/10/2023,781,25114.82,3.66,Credit Card,Diamond,No
+RDR000472,Saad Al-Harbi,Male,4/22/2005,Saudi,Riyadh,588216040,saad.alharbi81@email.com,2/25/2019,Active,3/10/2023,350,15389.27,4.81,Cash,Diamond,No
+RDR000473,Joud Al-Dosari,Female,2/21/2000,Saudi,Tabuk,522292455,joud.aldosari1@email.com,5/14/2020,Inactive,3/24/2021,26,727.72,4.88,Credit Card,Silver,No
+RDR000474,Khalid Al-Mutairi,Male,9/11/1976,Indian,Dhahran,591263173,khalid.almutairi91@email.com,8/5/2022,Active,3/10/2023,198,4075.23,4.21,Debit Card,Platinum,No
+RDR000475,Noura Al-Marri,Female,8/27/1982,Saudi,Mecca,526644381,noura.almarri90@email.com,9/10/2024,Inactive,10/5/2025,26,984.1,3.89,Cash,Silver,Yes
+RDR000476,Ghada Al-Malki,Female,9/4/1998,Jordanian,Dhahran,543681911,ghada.almalki45@email.com,8/23/2025,Active,3/10/2023,423,15677.77,4.26,Apple Pay,Diamond,Yes
+RDR000477,Jawaher Al-Malki,Female,11/17/2004,Yemeni,Jeddah,569851981,jawaher.almalki2@email.com,9/10/2019,Inactive,9/13/2021,94,4165.61,3.59,Cash,Gold,No
+RDR000478,Razan Al-Saif,Female,11/30/1986,Egyptian,Jeddah,577067918,razan.alsaif39@email.com,5/20/2025,Active,3/10/2023,327,12394.08,4.18,Mada,Diamond,Yes
+RDR000479,Hassan Al-Rumaih,Male,11/30/1993,Jordanian,Mecca,572226540,hassan.alrumaih60@email.com,6/24/2019,Active,3/10/2023,420,11997.42,4.2,Cash,Diamond,No
+RDR000480,Mishal Al-Shammari,Male,10/6/2001,Jordanian,Riyadh,559084772,mishal.alshammari2@email.com,7/25/2020,Active,3/10/2023,391,10960.29,4.98,Mada,Diamond,No
+RDR000481,Sultan Al-Rumaih,Male,5/2/1993,Saudi,Mecca,512909930,sultan.alrumaih64@email.com,6/7/2021,Active,3/10/2023,401,10733.55,4.21,Apple Pay,Diamond,No
+RDR000482,Hind Al-Hassan,Female,8/9/1986,Yemeni,Medina,518020907,hind.alhassan46@email.com,6/15/2024,Active,3/10/2023,512,22447.71,4.15,Debit Card,Diamond,Yes
+RDR000483,Aljohara Al-Saif,Female,6/18/1986,Saudi,Dammam,551340090,aljohara.alsaif81@email.com,8/2/2020,Active,3/10/2023,507,10017.34,4.71,Cash,Diamond,No
+RDR000484,Reem Al-Saif,Female,9/19/2002,Egyptian,Mecca,585876997,reem.alsaif61@email.com,12/9/2024,Active,3/10/2023,743,12552.06,4.06,Mada,Diamond,Yes
+RDR000485,Amal Al-Nasser,Female,11/18/1995,Pakistani,Khobar,555735675,amal.alnasser74@email.com,8/14/2021,Active,3/10/2023,321,12459.47,4.45,Cash,Diamond,No
+RDR000486,Rashed Al-Mazrou,Male,8/6/2007,Egyptian,Medina,578579952,rashed.almazrou13@email.com,8/25/2025,Active,3/10/2023,256,6790.22,4.23,Cash,Platinum,No
+RDR000487,Rashed Al-Mutairi,Male,12/28/1990,Saudi,Abha,547072327,rashed.almutairi92@email.com,7/3/2024,Active,3/10/2023,746,14392.21,3.9,Cash,Diamond,No
+RDR000488,Khalil Al-Mahmoud,Male,3/25/1996,Egyptian,Medina,575055025,khalil.almahmoud41@email.com,1/13/2019,Active,3/10/2023,636,21079.03,4.22,Debit Card,Diamond,No
+RDR000489,Faisal Al-Saif,Male,12/24/1984,Pakistani,Tabuk,547910637,faisal.alsaif32@email.com,5/8/2020,Active,3/10/2023,63,2439.44,4.6,Debit Card,Gold,No
+RDR000490,Fatima Al-Saleh,Female,7/24/1989,Saudi,Dammam,559476902,fatima.alsaleh60@email.com,4/16/2021,Active,3/10/2023,26,995.12,3.54,Mada,Silver,No
+RDR000491,Layan Al-Jasser,Female,1/5/1988,Saudi,Mecca,536545674,layan.aljasser91@email.com,8/29/2025,Active,3/10/2023,322,10689.2,3.66,Apple Pay,Diamond,Yes
+RDR000492,Rashed Al-Rashid,Male,4/28/1994,Sudanese,Jeddah,560335546,rashed.alrashid71@email.com,8/3/2019,Active,3/10/2023,566,8922.4,4.22,Debit Card,Diamond,No
+RDR000493,Maram Al-Faisal,Female,12/6/1993,Filipino,Mecca,586306755,maram.alfaisal6@email.com,8/30/2022,Active,3/10/2023,779,32326.78,3.55,Apple Pay,Diamond,Yes
+RDR000494,Mubarak Al-Harbi,Male,12/3/1997,Saudi,Jeddah,558360919,mubarak.alharbi46@email.com,7/27/2020,Active,3/10/2023,536,13477.58,3.75,Mada,Diamond,No
+RDR000495,Joud Al-Harbi,Female,4/22/1977,Saudi,Taif,583564403,joud.alharbi12@email.com,6/29/2023,Active,3/10/2023,538,21213.84,4.12,Cash,Diamond,Yes
+RDR000496,Ibrahim Al-Hassan,Male,3/9/1977,Saudi,Medina,574249118,ibrahim.alhassan6@email.com,8/20/2019,Active,3/10/2023,572,9303.74,3.54,Mada,Diamond,No
+RDR000497,Sultan Al-Shehri,Male,8/8/2007,Pakistani,Abha,548874742,sultan.alshehri64@email.com,8/1/2022,Active,3/10/2023,775,12171.68,4.45,Cash,Diamond,No
+RDR000498,Huda Al-Otaibi,Female,11/6/2004,Filipino,Medina,559407992,huda.alotaibi66@email.com,8/12/2025,Inactive,3/8/2025,63,2643.31,3.51,Mada,Gold,Yes
+RDR000499,Sultan Al-Zamil,Male,4/17/2001,Saudi,Riyadh,591553176,sultan.alzamil33@email.com,12/25/2025,Active,3/10/2023,570,14269.71,4.06,Cash,Diamond,No
+RDR000500,Wafa Al-Faisal,Female,4/30/1978,Pakistani,Jeddah,564450900,wafa.alfaisal27@email.com,3/14/2022,Active,3/10/2023,457,9389.05,4.41,Mada,Diamond,Yes
+RDR000501,Majed Al-Fahad,Male,11/9/1994,Egyptian,Tabuk,572247467,majed.alfahad7@email.com,5/8/2022,Active,3/10/2023,691,23794.52,3.82,Cash,Diamond,No
+RDR000502,Ibrahim Al-Nasser,Male,3/18/1999,Indian,Abha,562153213,ibrahim.alnasser93@email.com,4/8/2019,Active,3/10/2023,222,5510.21,4.74,Apple Pay,Platinum,No
+RDR000503,Dana Al-Mohammed,Female,12/24/2004,Filipino,Taif,524396406,dana.almohammed1@email.com,4/16/2025,Active,3/10/2023,684,27757.02,4.79,Debit Card,Diamond,No
+RDR000504,Sami Al-Saud,Male,1/23/2006,Egyptian,Dammam,538898236,sami.alsaud83@email.com,12/28/2023,Active,3/10/2023,582,12061.11,4.94,Credit Card,Diamond,No
+RDR000505,Razan Al-Harbi,Female,12/1/1994,Saudi,Dammam,545262440,razan.alharbi59@email.com,9/7/2023,Active,3/10/2023,305,13085.65,4.66,Credit Card,Diamond,No
+RDR000506,Yousef Al-Rashid,Male,4/17/1977,Pakistani,Taif,546659499,yousef.alrashid35@email.com,12/16/2020,Inactive,7/10/2021,93,1457.94,3.85,Cash,Gold,No
+RDR000507,Huda Al-Ghamdi,Female,1/24/1989,Indian,Medina,565354646,huda.alghamdi23@email.com,9/24/2019,Active,3/10/2023,387,17100.45,3.54,Cash,Diamond,Yes
+RDR000508,Abdullah Al-Khalifa,Male,1/11/2000,Saudi,Dammam,570128082,abdullah.alkhalifa1@email.com,5/16/2024,Active,3/10/2023,274,12295.78,3.54,Apple Pay,Platinum,No
+RDR000509,Badr Al-Jasser,Male,7/1/2004,Filipino,Taif,559297789,badr.aljasser59@email.com,8/6/2021,Active,3/10/2023,761,30151.91,3.57,Apple Pay,Diamond,No
+RDR000510,Meshari Al-Turki,Male,8/29/2000,Filipino,Abha,563925890,meshari.alturki48@email.com,1/23/2025,Active,3/10/2023,753,21855.47,4.46,Cash,Diamond,No
+RDR000511,Jawaher Al-Ghamdi,Female,4/16/2002,Egyptian,Taif,558139696,jawaher.alghamdi83@email.com,1/30/2025,Active,3/10/2023,443,12845.52,3.63,Apple Pay,Diamond,No
+RDR000512,Fahad Al-Rajhi,Male,4/24/2001,Filipino,Abha,528726231,fahad.alrajhi27@email.com,8/17/2020,Active,3/10/2023,554,22016.27,4.45,Mada,Diamond,No
+RDR000513,Lama Al-Shammari,Female,1/14/1997,Pakistani,Jeddah,599206059,lama.alshammari22@email.com,8/15/2024,Active,3/10/2023,533,19822.98,3.66,Credit Card,Diamond,No
+RDR000514,Wadha Al-Zahrani,Female,8/21/1998,Filipino,Khobar,557128455,wadha.alzahrani96@email.com,3/10/2023,Active,3/10/2023,405,11032.18,4.28,Cash,Diamond,No
+RDR000515,Hassan Al-Kaabi,Male,12/27/2001,Saudi,Mecca,551145240,hassan.alkaabi31@email.com,2/10/2021,Active,3/10/2023,517,19477.47,4.7,Cash,Diamond,No
+RDR000516,Samar Al-Zamil,Female,12/9/1977,Saudi,Jeddah,518995520,samar.alzamil33@email.com,2/21/2021,Inactive,5/25/2021,38,1085.96,3.68,Debit Card,Silver,Yes
+RDR000517,Yara Al-Saud,Female,9/8/1980,Filipino,Tabuk,574215060,yara.alsaud82@email.com,5/14/2022,Active,3/10/2023,384,12842.53,3.81,Cash,Diamond,Yes
+RDR000518,Sarah Al-Mohammed,Female,7/3/1989,Sudanese,Khobar,588802545,sarah.almohammed80@email.com,12/10/2022,Inactive,5/3/2025,50,2070.95,4.63,Credit Card,Silver,No
+RDR000519,Aisha Al-Mansour,Female,5/2/2004,Saudi,Riyadh,542935623,aisha.almansour93@email.com,6/19/2024,Active,3/10/2023,89,3552.78,4.21,Cash,Gold,No
+RDR000520,Jasser Al-Mansour,Male,9/4/1983,Sudanese,Khobar,570558903,jasser.almansour28@email.com,9/15/2021,Active,3/10/2023,481,16070.94,3.55,Apple Pay,Diamond,No
+RDR000521,Ahmed Al-Shehri,Male,9/9/1987,Saudi,Tabuk,585839721,ahmed.alshehri50@email.com,4/26/2019,Active,3/10/2023,456,17801.89,3.6,Debit Card,Diamond,No
+RDR000522,Ibrahim Al-Rumaih,Male,9/5/2006,Saudi,Jeddah,590681007,ibrahim.alrumaih43@email.com,10/17/2024,Active,3/10/2023,463,12872.3,3.94,Debit Card,Diamond,No
+RDR000523,Abdullah Al-Fahad,Male,7/17/2000,Jordanian,Taif,515888759,abdullah.alfahad39@email.com,6/14/2024,Active,3/10/2023,397,8130.69,4.66,Mada,Diamond,No
+RDR000524,Wadha Al-Hassan,Female,3/22/1983,Saudi,Taif,568800423,wadha.alhassan64@email.com,4/20/2020,Active,3/10/2023,143,3718.04,3.7,Cash,Gold,No
+RDR000525,Meshari Al-Zamil,Male,7/10/1989,Saudi,Jeddah,518747686,meshari.alzamil12@email.com,9/11/2023,Active,3/10/2023,286,6544.61,4.15,Mada,Platinum,No
+RDR000526,Aljohara Al-Faisal,Female,8/3/2004,Filipino,Abha,535070625,aljohara.alfaisal86@email.com,9/23/2021,Active,3/10/2023,141,2946.27,3.68,Debit Card,Gold,No
+RDR000527,Wafa Al-Ali,Female,5/21/1999,Saudi,Jeddah,550311369,wafa.alali18@email.com,1/29/2021,Active,3/10/2023,119,4450.51,4.34,Debit Card,Gold,Yes
+RDR000528,Noura Al-Khalid,Female,11/10/1994,Saudi,Riyadh,552886482,noura.alkhalid32@email.com,4/6/2020,Active,3/10/2023,273,11143.2,4.38,Credit Card,Platinum,No
+RDR000529,Khalil Al-Ali,Male,3/6/1984,Saudi,Taif,529610873,khalil.alali86@email.com,5/27/2021,Active,3/10/2023,398,7485.85,4.33,Mada,Diamond,No
+RDR000530,Abdullah Al-Ali,Male,5/26/1980,Egyptian,Abha,540244897,abdullah.alali34@email.com,10/25/2019,Active,3/10/2023,253,6879.51,4.44,Cash,Platinum,No
+RDR000531,Sarah Al-Hamdan,Female,4/15/1988,Filipino,Dhahran,540161549,sarah.alhamdan96@email.com,4/24/2019,Active,3/10/2023,744,31415.58,4.9,Cash,Diamond,Yes
+RDR000532,Dana Al-Mahmoud,Female,1/29/2007,Jordanian,Tabuk,518903195,dana.almahmoud72@email.com,11/5/2024,Active,3/10/2023,792,13895.86,3.61,Cash,Diamond,No
+RDR000533,Fahad Al-Turki,Male,11/7/1994,Pakistani,Dammam,591241436,fahad.alturki42@email.com,5/30/2023,Active,3/10/2023,666,28358.15,4.71,Apple Pay,Diamond,No
+RDR000534,Wadha Al-Mansour,Female,4/23/2002,Indian,Tabuk,555241475,wadha.almansour12@email.com,4/13/2025,Active,3/10/2023,620,22160.49,4.4,Cash,Diamond,No
+RDR000535,Ibrahim Al-Khalifa,Male,9/22/1997,Filipino,Dammam,535671365,ibrahim.alkhalifa45@email.com,3/29/2022,Active,3/10/2023,234,10335.83,3.97,Apple Pay,Platinum,No
+RDR000536,Hamad Al-Sabah,Male,12/18/1980,Saudi,Dhahran,549596283,hamad.alsabah25@email.com,2/14/2022,Active,3/10/2023,435,15491.7,4.5,Debit Card,Diamond,No
+RDR000537,Maram Al-Nasser,Female,10/27/1979,Saudi,Taif,537613126,maram.alnasser77@email.com,7/10/2025,Active,3/10/2023,121,4682.5,4.59,Apple Pay,Gold,No
+RDR000538,Mubarak Al-Turki,Male,5/11/1984,Egyptian,Medina,529641411,mubarak.alturki33@email.com,5/24/2023,Active,3/10/2023,278,9223.9,4.9,Cash,Platinum,No
+RDR000539,Reem Al-Mansour,Female,10/7/1983,Filipino,Abha,547190613,reem.almansour66@email.com,5/30/2023,Inactive,7/19/2024,33,1056.78,4.89,Cash,Silver,Yes
+RDR000540,Badr Al-Mohammed,Male,5/4/2000,Saudi,Tabuk,558497553,badr.almohammed98@email.com,3/18/2020,Active,3/10/2023,397,15498.48,3.97,Debit Card,Diamond,No
+RDR000541,Fahad Al-Harbi,Male,8/29/1977,Jordanian,Dammam,537500238,fahad.alharbi6@email.com,3/16/2020,Active,3/10/2023,275,11478.32,3.69,Credit Card,Platinum,No
+RDR000542,Ahmed Al-Zahrani,Male,5/21/1981,Filipino,Khobar,545800669,ahmed.alzahrani71@email.com,2/9/2022,Active,3/10/2023,247,6324.82,3.85,Cash,Platinum,No
+RDR000543,Sultan Al-Rashid,Male,5/9/1999,Pakistani,Abha,592717934,sultan.alrashid3@email.com,7/20/2025,Active,3/10/2023,226,9861.33,3.76,Cash,Platinum,No
+RDR000544,Sami Al-Mohammed,Male,2/13/1981,Saudi,Jeddah,533292561,sami.almohammed29@email.com,1/27/2020,Active,3/10/2023,417,9751.18,3.83,Cash,Diamond,No
+RDR000545,Ali Al-Saleh,Male,12/18/2003,Saudi,Dhahran,564832587,ali.alsaleh92@email.com,7/2/2025,Active,3/10/2023,396,11216.3,4.17,Debit Card,Diamond,No
+RDR000546,Mishal Al-Muhanna,Male,6/1/1986,Jordanian,Dhahran,580321416,mishal.almuhanna44@email.com,4/5/2019,Active,3/10/2023,279,6880.81,3.81,Mada,Platinum,No
+RDR000547,Layan Al-Marri,Female,10/25/1977,Jordanian,Tabuk,532599802,layan.almarri52@email.com,4/21/2021,Active,3/10/2023,721,15295.24,3.62,Mada,Diamond,Yes
+RDR000548,Hind Al-Mahmoud,Female,3/13/1983,Saudi,Dammam,596634490,hind.almahmoud90@email.com,8/3/2021,Active,3/10/2023,481,8148.55,4.94,Mada,Diamond,No
+RDR000549,Mishal Al-Mazrou,Male,6/9/1989,Saudi,Khobar,568701780,mishal.almazrou33@email.com,1/12/2023,Active,3/10/2023,503,12799.79,4.15,Cash,Diamond,No
+RDR000550,Razan Al-Farsi,Female,8/25/1984,Saudi,Taif,514871204,razan.alfarsi49@email.com,10/9/2020,Active,3/10/2023,600,15562.29,4.47,Cash,Diamond,No
+RDR000551,Bander Al-Mutairi,Male,10/12/2001,Saudi,Tabuk,529009798,bander.almutairi56@email.com,3/14/2025,Inactive,9/22/2025,68,1588.17,4.9,Cash,Gold,No
+RDR000552,Hassan Al-Shammari,Male,2/15/2006,Filipino,Dammam,597861865,hassan.alshammari95@email.com,11/13/2020,Active,3/10/2023,238,4826.24,4.81,Cash,Platinum,No
+RDR000553,Raghad Al-Malki,Female,6/11/2005,Saudi,Medina,546110491,raghad.almalki23@email.com,3/12/2019,Active,3/10/2023,201,6234.74,4.4,Credit Card,Platinum,No
+RDR000554,Hanan Al-Ghamdi,Female,4/1/1996,Pakistani,Abha,512780717,hanan.alghamdi65@email.com,2/4/2021,Active,3/10/2023,9,271.22,3.99,Debit Card,Silver,Yes
+RDR000555,Bander Al-Qahtani,Male,9/21/1982,Saudi,Taif,572062977,bander.alqahtani32@email.com,9/30/2020,Active,3/10/2023,248,7104.78,4.79,Apple Pay,Platinum,No
+RDR000556,Ali Al-Malki,Male,9/27/1984,Indian,Tabuk,563018273,ali.almalki71@email.com,6/23/2019,Inactive,9/2/2021,18,562.39,3.5,Cash,Silver,No
+RDR000557,Anoud Al-Sabah,Female,12/25/1984,Jordanian,Khobar,532400338,anoud.alsabah65@email.com,10/16/2025,Active,3/10/2023,768,31286.63,4.11,Apple Pay,Diamond,Yes
+RDR000558,Majed Al-Harbi,Male,4/21/1991,Jordanian,Tabuk,550200620,majed.alharbi48@email.com,2/14/2023,Active,3/10/2023,119,1870.24,4.41,Cash,Gold,No
+RDR000559,Mona Al-Rashid,Female,3/11/2002,Yemeni,Medina,550530014,mona.alrashid51@email.com,11/19/2023,Active,3/10/2023,769,17175.43,3.72,Cash,Diamond,Yes
+RDR000560,Hamed Al-Farsi,Male,9/7/1987,Saudi,Taif,565807734,hamed.alfarsi7@email.com,6/24/2023,Active,3/10/2023,477,10666.19,4.06,Debit Card,Diamond,No
+RDR000561,Omar Al-Baker,Male,12/17/2004,Filipino,Khobar,549453440,omar.albaker46@email.com,8/6/2019,Active,3/10/2023,396,15694.6,4.83,Cash,Diamond,No
+RDR000562,Sarah Al-Ali,Female,12/20/2007,Saudi,Jeddah,529587604,sarah.alali96@email.com,12/14/2022,Active,3/10/2023,318,11553.94,4.88,Debit Card,Diamond,Yes
+RDR000563,Majed Al-Sabah,Male,11/25/1992,Filipino,Khobar,553828083,majed.alsabah37@email.com,4/9/2019,Active,3/10/2023,343,8931.39,4.7,Cash,Diamond,No
+RDR000564,Hamed Al-Mohammed,Male,7/7/1991,Egyptian,Dhahran,598666413,hamed.almohammed92@email.com,10/6/2024,Inactive,3/17/2025,65,1832.73,3.6,Debit Card,Gold,No
+RDR000565,Lina Al-Ghamdi,Female,6/28/2006,Saudi,Medina,511626011,lina.alghamdi18@email.com,1/17/2020,Active,3/10/2023,283,5896.25,4.09,Credit Card,Platinum,Yes
+RDR000566,Lina Al-Anazi,Female,2/18/2001,Saudi,Abha,545635838,lina.alanazi94@email.com,5/16/2025,Active,3/10/2023,216,6367.67,3.5,Credit Card,Platinum,Yes
+RDR000567,Dana Al-Mohammed,Female,6/7/1987,Saudi,Jeddah,587449461,dana.almohammed72@email.com,11/24/2019,Active,3/10/2023,351,11034.65,4.43,Apple Pay,Diamond,No
+RDR000568,Maram Al-Sabah,Female,4/26/1998,Saudi,Mecca,568233497,maram.alsabah62@email.com,8/12/2025,Active,3/10/2023,286,6625.38,4.71,Debit Card,Platinum,No
+RDR000569,Wadha Al-Faisal,Female,7/27/1983,Saudi,Riyadh,539387314,wadha.alfaisal32@email.com,8/20/2025,Active,3/10/2023,264,7637.63,3.66,Debit Card,Platinum,Yes
+RDR000570,Meshari Al-Shammari,Male,7/7/1980,Indian,Dhahran,598970561,meshari.alshammari9@email.com,9/14/2023,Active,3/10/2023,307,11742.44,3.62,Debit Card,Diamond,No
+RDR000571,Badr Al-Faisal,Male,2/28/2003,Saudi,Dhahran,541632745,badr.alfaisal63@email.com,9/22/2020,Active,3/10/2023,32,1323.94,4,Apple Pay,Silver,No
+RDR000572,Yara Al-Rumaih,Female,1/25/2001,Egyptian,Medina,531366388,yara.alrumaih77@email.com,7/19/2023,Active,3/10/2023,241,5980.24,3.93,Cash,Platinum,Yes
+RDR000573,Omar Al-Mutairi,Male,3/8/1977,Yemeni,Jeddah,530386018,omar.almutairi7@email.com,2/4/2019,Active,3/10/2023,439,6612.49,4.24,Credit Card,Diamond,No
+RDR000574,Fahad Al-Shehri,Male,7/16/2004,Saudi,Dammam,532175662,fahad.alshehri40@email.com,2/11/2023,Active,3/10/2023,717,17856.35,4.04,Cash,Diamond,No
+RDR000575,Saad Al-Otaibi,Male,6/20/1986,Saudi,Tabuk,545880464,saad.alotaibi76@email.com,1/1/2019,Active,3/10/2023,197,4677.34,4.68,Cash,Platinum,No
+RDR000576,Waleed Al-Shehri,Male,5/15/1985,Saudi,Jeddah,576627763,waleed.alshehri78@email.com,3/8/2024,Active,3/10/2023,267,5797.57,3.74,Mada,Platinum,No
+RDR000577,Sarah Al-Faisal,Female,9/20/1994,Saudi,Khobar,597709864,sarah.alfaisal91@email.com,10/28/2020,Active,3/10/2023,464,18299.76,4.04,Cash,Diamond,Yes
+RDR000578,Saleh Al-Hamdan,Male,10/30/2005,Filipino,Medina,525799861,saleh.alhamdan19@email.com,9/12/2021,Active,3/10/2023,721,13144,3.73,Credit Card,Diamond,No
+RDR000579,Maha Al-Ghamdi,Female,11/11/1986,Jordanian,Jeddah,565013238,maha.alghamdi16@email.com,3/3/2022,Active,3/10/2023,705,30241.82,3.98,Debit Card,Diamond,No
+RDR000580,Samar Al-Ali,Female,1/21/2007,Saudi,Riyadh,562285733,samar.alali24@email.com,1/31/2023,Active,3/10/2023,197,7756.99,4.02,Credit Card,Platinum,Yes
+RDR000581,Maram Al-Marri,Female,1/19/1983,Sudanese,Mecca,534690946,maram.almarri1@email.com,9/1/2022,Active,3/10/2023,725,29779.54,4.13,Apple Pay,Diamond,Yes
+RDR000582,Sadeem Al-Mutairi,Female,3/31/1986,Saudi,Taif,537146258,sadeem.almutairi93@email.com,10/2/2022,Active,3/10/2023,144,2939.82,3.86,Cash,Gold,Yes
+RDR000583,Meshari Al-Rajhi,Male,6/2/1999,Saudi,Tabuk,529838164,meshari.alrajhi43@email.com,3/8/2023,Active,3/10/2023,108,3824.35,4.22,Cash,Gold,No
+RDR000584,Yara Al-Sabah,Female,9/12/2006,Indian,Tabuk,589319341,yara.alsabah71@email.com,11/13/2025,Active,3/10/2023,202,4788.57,4.15,Mada,Platinum,No
+RDR000585,Sarah Al-Baker,Female,3/7/1987,Jordanian,Khobar,572215698,sarah.albaker78@email.com,3/15/2019,Active,3/10/2023,643,20676.91,4.95,Credit Card,Diamond,No
+RDR000586,Hamed Al-Farsi,Male,10/3/1990,Saudi,Dammam,510575125,hamed.alfarsi68@email.com,6/8/2019,Active,3/10/2023,685,14985.49,4.86,Apple Pay,Diamond,No
+RDR000587,Hamed Al-Mahmoud,Male,6/15/1984,Pakistani,Dhahran,565935917,hamed.almahmoud3@email.com,1/10/2019,Active,3/10/2023,78,2344.1,4.7,Apple Pay,Gold,No
+RDR000588,Noura Al-Mohammed,Female,12/6/1997,Jordanian,Tabuk,585263223,noura.almohammed93@email.com,5/24/2021,Active,3/10/2023,566,14069.41,3.93,Credit Card,Diamond,Yes
+RDR000589,Ahmed Al-Anazi,Male,11/18/1996,Saudi,Jeddah,598242407,ahmed.alanazi38@email.com,9/8/2022,Active,3/10/2023,492,17295.93,3.53,Debit Card,Diamond,No
+RDR000590,Dana Al-Anazi,Female,2/20/1984,Sudanese,Medina,583642672,dana.alanazi82@email.com,11/2/2020,Active,3/10/2023,784,13373.23,4.9,Apple Pay,Diamond,No
+RDR000591,Ahmed Al-Mahmoud,Male,1/7/2003,Pakistani,Jeddah,581751708,ahmed.almahmoud60@email.com,1/11/2022,Active,3/10/2023,117,3547.84,4.65,Apple Pay,Gold,No
+RDR000592,Hind Al-Mutairi,Female,3/28/1997,Sudanese,Khobar,512446459,hind.almutairi80@email.com,1/12/2020,Active,3/10/2023,398,15574.24,4.71,Cash,Diamond,No
+RDR000593,Abdullah Al-Malki,Male,2/19/1980,Egyptian,Mecca,513998226,abdullah.almalki44@email.com,11/2/2022,Active,3/10/2023,707,28707.87,4.3,Cash,Diamond,No
+RDR000594,Rana Al-Khalid,Female,3/8/1977,Saudi,Dhahran,540434030,rana.alkhalid85@email.com,5/19/2021,Active,3/10/2023,636,27356.83,4.46,Cash,Diamond,No
+RDR000595,Layan Al-Hamdan,Female,11/8/1982,Egyptian,Khobar,512297985,layan.alhamdan86@email.com,3/26/2021,Active,3/10/2023,38,1634.67,4.18,Credit Card,Silver,No
+RDR000596,Fatima Al-Hamdan,Female,3/29/2003,Filipino,Taif,528222781,fatima.alhamdan61@email.com,12/16/2019,Active,3/10/2023,99,2953.21,4.39,Cash,Gold,No
+RDR000597,Reem Al-Muhanna,Female,9/20/2006,Saudi,Riyadh,517370298,reem.almuhanna39@email.com,7/22/2022,Active,3/10/2023,550,19219.59,4.73,Apple Pay,Diamond,No
+RDR000598,Layan Al-Ghamdi,Female,2/4/2005,Indian,Dammam,551390751,layan.alghamdi95@email.com,10/24/2022,Active,3/10/2023,77,1847.58,4.96,Apple Pay,Gold,Yes
+RDR000599,Maram Al-Ahmadi,Female,3/15/1992,Saudi,Jeddah,522771791,maram.alahmadi34@email.com,7/16/2020,Active,3/10/2023,618,23508.7,4.4,Credit Card,Diamond,Yes
+RDR000600,Turki Al-Mazrou,Male,10/14/1983,Pakistani,Medina,520692205,turki.almazrou92@email.com,7/12/2025,Active,3/10/2023,238,7489.41,3.57,Apple Pay,Platinum,No
+RDR000601,Shatha Al-Dosari,Female,5/24/1996,Sudanese,Dhahran,516986498,shatha.aldosari18@email.com,6/16/2019,Active,3/10/2023,431,7353.91,3.64,Apple Pay,Diamond,No
+RDR000602,Omar Al-Ali,Male,5/5/2001,Filipino,Riyadh,585321709,omar.alali32@email.com,4/5/2024,Active,3/10/2023,416,7263.47,4.31,Apple Pay,Diamond,No
+RDR000603,Turki Al-Mazrou,Male,11/7/1977,Pakistani,Jeddah,542022542,turki.almazrou53@email.com,3/10/2019,Active,3/10/2023,747,11323.47,4.56,Debit Card,Diamond,No
+RDR000604,Mona Al-Mohammed,Female,10/15/1984,Saudi,Abha,556206851,mona.almohammed18@email.com,9/1/2021,Inactive,12/7/2022,79,2143.71,4.5,Debit Card,Gold,Yes
+RDR000605,Hind Al-Mahmoud,Female,5/26/2008,Saudi,Tabuk,564431323,hind.almahmoud76@email.com,5/25/2020,Active,3/10/2023,262,5432.56,4.47,Cash,Platinum,Yes
+RDR000606,Turki Al-Rumaih,Male,5/18/2006,Sudanese,Jeddah,519690419,turki.alrumaih88@email.com,10/16/2021,Active,3/10/2023,42,1127.35,3.85,Debit Card,Silver,No
+RDR000607,Sami Al-Zahrani,Male,11/6/2007,Jordanian,Tabuk,524355076,sami.alzahrani44@email.com,1/12/2019,Active,3/10/2023,735,15574.65,3.67,Mada,Diamond,No
+RDR000608,Sultan Al-Zahrani,Male,2/16/1996,Indian,Khobar,599002424,sultan.alzahrani26@email.com,8/24/2022,Active,3/10/2023,388,15804.28,4.49,Mada,Diamond,No
+RDR000609,Majed Al-Mansour,Male,3/6/1996,Jordanian,Khobar,516567733,majed.almansour33@email.com,2/9/2021,Active,3/10/2023,679,10247.28,3.86,Cash,Diamond,No
+RDR000610,Dana Al-Qahtani,Female,2/25/2002,Saudi,Riyadh,547490780,dana.alqahtani23@email.com,2/23/2024,Active,3/10/2023,209,5806.97,4.12,Apple Pay,Platinum,Yes
+RDR000611,Jasser Al-Sulaiman,Male,12/11/1990,Saudi,Dammam,531536347,jasser.alsulaiman62@email.com,7/7/2021,Active,3/10/2023,705,15239.96,4.8,Cash,Diamond,No
+RDR000612,Mohammed Al-Mahmoud,Male,7/16/2003,Saudi,Taif,559772507,mohammed.almahmoud67@email.com,4/25/2023,Active,3/10/2023,565,12794.05,4.26,Debit Card,Diamond,No
+RDR000613,Sami Al-Sabah,Male,7/4/1997,Yemeni,Dammam,584619451,sami.alsabah79@email.com,7/12/2023,Inactive,11/7/2025,31,999.2,4.85,Apple Pay,Silver,No
+RDR000614,Mubarak Al-Sabah,Male,8/21/1989,Filipino,Riyadh,555808008,mubarak.alsabah1@email.com,9/2/2020,Active,3/10/2023,336,9888.67,4.65,Cash,Diamond,No
+RDR000615,Omar Al-Saleh,Male,6/8/1990,Yemeni,Dhahran,590741671,omar.alsaleh73@email.com,10/25/2021,Active,3/10/2023,279,8905.86,4.38,Mada,Platinum,No
+RDR000616,Mishal Al-Ali,Male,6/15/1992,Indian,Tabuk,542368904,mishal.alali69@email.com,3/14/2021,Active,3/10/2023,333,8325.96,3.57,Apple Pay,Diamond,No
+RDR000617,Badr Al-Jasser,Male,4/9/1999,Indian,Riyadh,565346005,badr.aljasser69@email.com,11/9/2019,Active,3/10/2023,141,6327.89,3.85,Credit Card,Gold,No
+RDR000618,Omar Al-Jasser,Male,10/28/2006,Saudi,Taif,511570055,omar.aljasser76@email.com,7/9/2020,Active,3/10/2023,220,6000.31,3.83,Credit Card,Platinum,No
+RDR000619,Nada Al-Nasser,Female,8/17/1981,Pakistani,Jeddah,594437310,nada.alnasser98@email.com,10/27/2022,Active,3/10/2023,627,13942.16,3.68,Apple Pay,Diamond,Yes
+RDR000620,Dana Al-Saud,Female,4/27/1982,Saudi,Taif,587265763,dana.alsaud36@email.com,6/5/2021,Active,3/10/2023,339,5085.94,3.65,Cash,Diamond,No
+RDR000621,Nada Al-Jasser,Female,2/13/1996,Saudi,Mecca,533094606,nada.aljasser21@email.com,4/21/2019,Active,3/10/2023,643,14163.1,4.36,Mada,Diamond,Yes
+RDR000622,Faisal Al-Nasser,Male,9/18/1980,Saudi,Medina,514226637,faisal.alnasser16@email.com,6/27/2020,Active,3/10/2023,63,2316.66,4.49,Debit Card,Gold,No
+RDR000623,Meshari Al-Saleh,Male,10/11/2000,Egyptian,Dhahran,514715002,meshari.alsaleh69@email.com,9/22/2020,Active,3/10/2023,163,3301.22,4.21,Credit Card,Platinum,No
+RDR000624,Rana Al-Mutairi,Female,1/4/2001,Saudi,Mecca,579828365,rana.almutairi92@email.com,5/17/2021,Inactive,10/14/2023,14,443.1,4.15,Mada,Silver,No
+RDR000625,Nada Al-Malki,Female,9/28/2000,Filipino,Tabuk,569737061,nada.almalki36@email.com,12/22/2024,Active,3/10/2023,221,5408.29,4.93,Cash,Platinum,No
+RDR000626,Faisal Al-Faisal,Male,4/17/2003,Sudanese,Dammam,527015981,faisal.alfaisal7@email.com,3/19/2023,Active,3/10/2023,477,10442.55,4.89,Cash,Diamond,No
+RDR000627,Khalil Al-Faisal,Male,9/4/1997,Saudi,Tabuk,578238437,khalil.alfaisal78@email.com,7/7/2020,Inactive,8/9/2021,69,2160.4,4.81,Debit Card,Gold,No
+RDR000628,Ali Al-Zamil,Male,7/27/1993,Pakistani,Abha,528277763,ali.alzamil23@email.com,12/9/2019,Active,3/10/2023,551,8992.63,3.64,Apple Pay,Diamond,No
+RDR000629,Samar Al-Shehri,Female,1/12/1980,Pakistani,Medina,520758474,samar.alshehri95@email.com,1/2/2020,Active,3/10/2023,640,24194.68,4.16,Cash,Diamond,Yes
+RDR000630,Joud Al-Rashid,Female,2/7/2007,Saudi,Riyadh,553284762,joud.alrashid22@email.com,2/17/2019,Active,3/10/2023,794,29955.04,4.5,Credit Card,Diamond,No
+RDR000631,Saad Al-Fahad,Male,3/2/1980,Sudanese,Taif,591184381,saad.alfahad4@email.com,2/7/2020,Active,3/10/2023,552,20190.37,4.47,Credit Card,Diamond,No
+RDR000632,Maram Al-Mansour,Female,8/25/2004,Pakistani,Jeddah,529856655,maram.almansour77@email.com,8/26/2024,Active,3/10/2023,771,27019.16,3.94,Debit Card,Diamond,Yes
+RDR000633,Wadha Al-Sabah,Female,7/24/2006,Egyptian,Jeddah,560928280,wadha.alsabah61@email.com,9/8/2020,Active,3/10/2023,782,12677.39,3.93,Cash,Diamond,Yes
+RDR000634,Fahad Al-Saif,Male,2/23/1993,Saudi,Riyadh,558515244,fahad.alsaif93@email.com,1/12/2019,Active,3/10/2023,252,7680.13,4.07,Mada,Platinum,No
+RDR000635,Thamer Al-Mansour,Male,3/30/1998,Egyptian,Tabuk,559602348,thamer.almansour85@email.com,5/18/2020,Active,3/10/2023,153,2519.9,4.7,Cash,Platinum,No
+RDR000636,Dana Al-Mazrou,Female,3/22/1990,Saudi,Dhahran,542264580,dana.almazrou53@email.com,6/21/2019,Active,3/10/2023,41,1355.59,4.44,Credit Card,Silver,No
+RDR000637,Tala Al-Rashid,Female,12/22/2002,Jordanian,Tabuk,543932270,tala.alrashid68@email.com,11/23/2024,Active,3/10/2023,67,1254.77,3.59,Credit Card,Gold,Yes
+RDR000638,Ibrahim Al-Farsi,Male,5/2/1985,Saudi,Mecca,560746101,ibrahim.alfarsi92@email.com,2/20/2025,Active,3/10/2023,511,19374.86,4.82,Debit Card,Diamond,No
+RDR000639,Thamer Al-Khalifa,Male,1/21/1978,Saudi,Medina,532933935,thamer.alkhalifa67@email.com,9/26/2020,Active,3/10/2023,145,4660.68,4.54,Cash,Gold,No
+RDR000640,Sadeem Al-Saleh,Female,12/12/1991,Sudanese,Mecca,580910050,sadeem.alsaleh56@email.com,3/26/2019,Active,3/10/2023,430,9208.98,4.63,Debit Card,Diamond,Yes
+RDR000641,Lama Al-Kaabi,Female,9/14/1991,Saudi,Riyadh,515679986,lama.alkaabi24@email.com,5/18/2023,Active,3/10/2023,647,17532.65,4.08,Apple Pay,Diamond,Yes
+RDR000642,Joud Al-Zamil,Female,5/23/1987,Jordanian,Mecca,551302750,joud.alzamil53@email.com,4/18/2022,Active,3/10/2023,747,28955.82,3.53,Credit Card,Diamond,No
+RDR000643,Hassan Al-Dosari,Male,8/4/1993,Sudanese,Khobar,528019246,hassan.aldosari60@email.com,9/15/2021,Active,3/10/2023,513,17084.37,4.28,Apple Pay,Diamond,No
+RDR000644,Hamad Al-Otaibi,Male,2/3/1999,Egyptian,Dammam,536082385,hamad.alotaibi68@email.com,8/24/2019,Active,3/10/2023,299,6796.72,3.86,Debit Card,Platinum,No
+RDR000645,Reem Al-Faisal,Female,1/25/1988,Pakistani,Medina,572605861,reem.alfaisal93@email.com,8/2/2020,Active,3/10/2023,93,3846.28,3.64,Cash,Gold,Yes
+RDR000646,Faisal Al-Mahmoud,Male,4/19/1990,Yemeni,Tabuk,553355032,faisal.almahmoud29@email.com,1/10/2020,Active,3/10/2023,203,3283.8,4.24,Debit Card,Platinum,No
+RDR000647,Sarah Al-Harbi,Female,1/1/1991,Saudi,Jeddah,571970086,sarah.alharbi65@email.com,11/11/2025,Active,3/10/2023,509,20742.44,4.64,Apple Pay,Diamond,No
+RDR000648,Ahmed Al-Ahmadi,Male,11/6/1989,Saudi,Medina,583784912,ahmed.alahmadi17@email.com,4/19/2019,Active,3/10/2023,31,1243.96,4.38,Apple Pay,Silver,No
+RDR000649,Ali Al-Mansour,Male,9/22/1981,Saudi,Khobar,565768929,ali.almansour1@email.com,4/18/2024,Active,3/10/2023,510,21148.9,3.9,Apple Pay,Diamond,No
+RDR000650,Thamer Al-Turki,Male,4/14/2005,Saudi,Tabuk,580593346,thamer.alturki82@email.com,11/17/2022,Active,3/10/2023,60,2289.36,3.61,Cash,Gold,No
+RDR000651,Rana Al-Zamil,Female,2/25/1982,Saudi,Dammam,564664065,rana.alzamil25@email.com,7/14/2021,Active,3/10/2023,543,10924.09,4.22,Credit Card,Diamond,No
+RDR000652,Sultan Al-Harbi,Male,1/7/1997,Saudi,Medina,549453084,sultan.alharbi17@email.com,1/23/2024,Active,3/10/2023,346,10584.28,4.13,Credit Card,Diamond,No
+RDR000653,Sarah Al-Turki,Female,5/21/2006,Pakistani,Riyadh,522882933,sarah.alturki15@email.com,10/14/2022,Active,3/10/2023,405,15143.07,4.14,Mada,Diamond,Yes
+RDR000654,Fahad Al-Fahad,Male,7/1/2004,Saudi,Riyadh,561846177,fahad.alfahad20@email.com,10/31/2024,Active,3/10/2023,370,13152.48,4.09,Cash,Diamond,No
+RDR000655,Rashed Al-Nasser,Male,2/17/2006,Jordanian,Jeddah,578326999,rashed.alnasser71@email.com,12/19/2020,Active,3/10/2023,261,5351.05,4.85,Apple Pay,Platinum,No
+RDR000656,Mubarak Al-Mohammed,Male,8/19/1996,Saudi,Dhahran,515414590,mubarak.almohammed15@email.com,4/18/2025,Active,3/10/2023,147,3272.66,4.43,Cash,Gold,No
+RDR000657,Hamed Al-Fahad,Male,10/2/1984,Saudi,Khobar,564687986,hamed.alfahad6@email.com,5/7/2022,Active,3/10/2023,684,14609.43,4.87,Mada,Diamond,No
+RDR000658,Reem Al-Qahtani,Female,9/14/1985,Egyptian,Jeddah,585760777,reem.alqahtani75@email.com,2/26/2023,Active,3/10/2023,711,25756.98,3.53,Credit Card,Diamond,No
+RDR000659,Hanan Al-Rashid,Female,10/15/1976,Filipino,Taif,593721739,hanan.alrashid81@email.com,11/11/2021,Active,3/10/2023,170,4695.76,4.1,Cash,Platinum,No
+RDR000660,Jawaher Al-Jasser,Female,6/11/2004,Pakistani,Tabuk,549667716,jawaher.aljasser19@email.com,9/24/2025,Active,3/10/2023,693,21523.15,4.52,Cash,Diamond,Yes
+RDR000661,Amal Al-Ghamdi,Female,12/2/1982,Filipino,Khobar,536098769,amal.alghamdi23@email.com,5/4/2025,Active,3/10/2023,22,917.76,4.66,Apple Pay,Silver,Yes
+RDR000662,Waleed Al-Ghamdi,Male,6/8/2007,Pakistani,Dhahran,573481972,waleed.alghamdi20@email.com,7/14/2023,Active,3/10/2023,57,1535.57,4.11,Mada,Gold,No
+RDR000663,Jasser Al-Shammari,Male,3/26/1998,Pakistani,Riyadh,591434066,jasser.alshammari29@email.com,12/16/2023,Active,3/10/2023,222,5499.68,3.96,Mada,Platinum,No
+RDR000664,Amal Al-Sabah,Female,3/9/1990,Yemeni,Mecca,525811556,amal.alsabah19@email.com,4/17/2025,Active,3/10/2023,292,12283.7,4.74,Apple Pay,Platinum,Yes
+RDR000665,Joud Al-Rashid,Female,11/20/2001,Jordanian,Abha,598706994,joud.alrashid35@email.com,8/26/2020,Active,3/10/2023,782,13923.45,4.04,Mada,Diamond,Yes
+RDR000666,Tala Al-Shammari,Female,12/5/2001,Saudi,Jeddah,580934691,tala.alshammari41@email.com,6/6/2021,Inactive,3/18/2024,55,1767.99,3.65,Mada,Gold,No
+RDR000667,Ibrahim Al-Fahad,Male,8/19/1985,Saudi,Dammam,594025838,ibrahim.alfahad6@email.com,6/21/2023,Active,3/10/2023,247,10037.86,4.38,Apple Pay,Platinum,No
+RDR000668,Khalil Al-Hassan,Male,1/1/1991,Saudi,Riyadh,517402229,khalil.alhassan15@email.com,1/27/2019,Active,3/10/2023,527,21085.96,4.15,Cash,Diamond,No
+RDR000669,Mona Al-Harbi,Female,4/25/2006,Saudi,Jeddah,560357342,mona.alharbi68@email.com,3/2/2021,Active,3/10/2023,343,5721.1,4.74,Credit Card,Diamond,No
+RDR000670,Waleed Al-Saif,Male,1/21/1985,Saudi,Jeddah,588176784,waleed.alsaif57@email.com,8/9/2022,Inactive,12/21/2024,100,3426.22,3.77,Mada,Gold,No
+RDR000671,Khalid Al-Turki,Male,11/2/1995,Jordanian,Medina,531785186,khalid.alturki8@email.com,2/20/2022,Active,3/10/2023,508,18506.17,4.16,Cash,Diamond,No
+RDR000672,Maha Al-Faisal,Female,5/23/1986,Sudanese,Dhahran,593938382,maha.alfaisal61@email.com,6/16/2020,Active,3/10/2023,353,15067.76,3.53,Credit Card,Diamond,No
+RDR000673,Abdullah Al-Farsi,Male,9/15/1999,Saudi,Riyadh,537201429,abdullah.alfarsi59@email.com,6/16/2023,Active,3/10/2023,691,15176.7,4.3,Credit Card,Diamond,No
+RDR000674,Rashed Al-Sulaiman,Male,11/30/2004,Indian,Mecca,511428262,rashed.alsulaiman27@email.com,4/9/2021,Active,3/10/2023,411,16639.9,3.66,Cash,Diamond,No
+RDR000675,Omar Al-Mutairi,Male,6/10/1985,Yemeni,Tabuk,552648480,omar.almutairi17@email.com,10/31/2020,Inactive,7/18/2021,29,841.92,4.63,Debit Card,Silver,No
+RDR000676,Layan Al-Zahrani,Female,8/5/1996,Filipino,Medina,516601392,layan.alzahrani93@email.com,6/12/2021,Active,3/10/2023,684,29984.6,4.32,Apple Pay,Diamond,No
+RDR000677,Noura Al-Ghamdi,Female,2/3/2006,Saudi,Dhahran,570631334,noura.alghamdi27@email.com,4/19/2022,Active,3/10/2023,97,3439.76,4.15,Apple Pay,Gold,No
+RDR000678,Aljohara Al-Zamil,Female,6/8/1985,Saudi,Jeddah,535051514,aljohara.alzamil10@email.com,8/3/2020,Active,3/10/2023,759,11704.09,4.69,Mada,Diamond,Yes
+RDR000679,Mubarak Al-Rumaih,Male,10/7/2000,Filipino,Abha,583299666,mubarak.alrumaih44@email.com,1/17/2021,Active,3/10/2023,199,7370.25,3.89,Cash,Platinum,No
+RDR000680,Nada Al-Hassan,Female,5/8/1985,Saudi,Dhahran,582948912,nada.alhassan88@email.com,8/6/2021,Active,3/10/2023,553,24817.23,3.86,Credit Card,Diamond,Yes
+RDR000681,Ghada Al-Mazrou,Female,11/28/1979,Jordanian,Taif,564060403,ghada.almazrou88@email.com,4/4/2019,Active,3/10/2023,720,30825.48,4.38,Mada,Diamond,Yes
+RDR000682,Noura Al-Faisal,Female,10/9/2007,Egyptian,Taif,510302186,noura.alfaisal49@email.com,8/24/2021,Active,3/10/2023,531,16577.09,4.67,Debit Card,Diamond,Yes
+RDR000683,Turki Al-Hassan,Male,11/17/1978,Egyptian,Khobar,511990737,turki.alhassan43@email.com,9/5/2022,Active,3/10/2023,89,2774.33,4.99,Mada,Gold,No
+RDR000684,Rana Al-Farsi,Female,3/15/2005,Filipino,Dhahran,528621916,rana.alfarsi42@email.com,5/21/2025,Active,3/10/2023,75,2402.7,4.28,Debit Card,Gold,No
+RDR000685,Sami Al-Mahmoud,Male,5/12/2001,Saudi,Dhahran,515071837,sami.almahmoud43@email.com,12/28/2025,Active,3/10/2023,296,11529.66,4.68,Credit Card,Platinum,No
+RDR000686,Badr Al-Saif,Male,4/25/1993,Sudanese,Dammam,591836571,badr.alsaif66@email.com,9/9/2024,Active,3/10/2023,664,20986.53,3.69,Cash,Diamond,No
+RDR000687,Saad Al-Baker,Male,4/11/1977,Yemeni,Khobar,569244451,saad.albaker12@email.com,1/25/2024,Active,3/10/2023,520,13368.23,4.19,Credit Card,Diamond,No
+RDR000688,Ali Al-Zamil,Male,2/2/2000,Saudi,Dhahran,592622134,ali.alzamil58@email.com,1/8/2024,Active,3/10/2023,201,4672.65,4.31,Mada,Platinum,No
+RDR000689,Abdullah Al-Kaabi,Male,9/9/1982,Jordanian,Taif,577888064,abdullah.alkaabi64@email.com,11/5/2025,Active,3/10/2023,394,14403.14,4.31,Cash,Diamond,No
+RDR000690,Nasser Al-Hamdan,Male,8/5/1984,Egyptian,Abha,580382000,nasser.alhamdan1@email.com,6/20/2025,Active,3/10/2023,768,20703.6,3.56,Mada,Diamond,No
+RDR000691,Ali Al-Turki,Male,12/18/1990,Jordanian,Riyadh,593153138,ali.alturki43@email.com,1/8/2022,Active,3/10/2023,680,24186.49,4.84,Apple Pay,Diamond,No
+RDR000692,Mohammed Al-Zahrani,Male,8/31/1991,Saudi,Mecca,543716263,mohammed.alzahrani24@email.com,2/19/2022,Active,3/10/2023,181,7787.87,4.67,Apple Pay,Platinum,No
+RDR000693,Anoud Al-Rumaih,Female,5/27/1997,Yemeni,Dhahran,527864098,anoud.alrumaih88@email.com,3/14/2021,Active,3/10/2023,627,19425.15,3.94,Mada,Diamond,Yes
+RDR000694,Yara Al-Hassan,Female,4/21/1990,Saudi,Medina,544994374,yara.alhassan11@email.com,2/15/2025,Active,3/10/2023,587,20858.5,4.9,Apple Pay,Diamond,No
+RDR000695,Hamad Al-Ali,Male,7/10/1998,Sudanese,Mecca,539832632,hamad.alali44@email.com,11/7/2022,Active,3/10/2023,590,18226.41,3.76,Cash,Diamond,No
+RDR000696,Rana Al-Hassan,Female,6/30/1979,Indian,Abha,579650275,rana.alhassan34@email.com,3/11/2020,Active,3/10/2023,401,17518.8,4.05,Credit Card,Diamond,No
+RDR000697,Aisha Al-Muhanna,Female,2/15/2008,Saudi,Khobar,551153750,aisha.almuhanna81@email.com,6/20/2024,Active,3/10/2023,295,9940.15,4.74,Debit Card,Platinum,No
+RDR000698,Yousef Al-Ali,Male,7/2/1993,Filipino,Tabuk,541677801,yousef.alali35@email.com,6/6/2024,Active,3/10/2023,204,7915.92,4.28,Mada,Platinum,No
+RDR000699,Meshari Al-Nasser,Male,10/5/1993,Saudi,Dhahran,524391123,meshari.alnasser28@email.com,6/13/2022,Active,3/10/2023,301,11097.26,4.18,Apple Pay,Diamond,No
+RDR000700,Samar Al-Shammari,Female,5/30/2006,Saudi,Taif,593318446,samar.alshammari35@email.com,11/18/2024,Active,3/10/2023,437,19045.3,4.17,Apple Pay,Diamond,Yes
+RDR000701,Waleed Al-Mutairi,Male,3/29/1977,Filipino,Riyadh,580292642,waleed.almutairi61@email.com,12/20/2022,Active,3/10/2023,393,12514.92,4.42,Credit Card,Diamond,No
+RDR000702,Khalil Al-Saud,Male,6/4/1990,Saudi,Dammam,528367664,khalil.alsaud43@email.com,1/18/2023,Active,3/10/2023,527,16717.6,4.29,Apple Pay,Diamond,No
+RDR000703,Sadeem Al-Qahtani,Female,12/5/1995,Saudi,Khobar,532493530,sadeem.alqahtani18@email.com,7/18/2025,Active,3/10/2023,773,23020.99,4.17,Cash,Diamond,Yes
+RDR000704,Hind Al-Zamil,Female,6/30/1976,Filipino,Khobar,548659084,hind.alzamil23@email.com,8/6/2025,Active,3/10/2023,373,11212.73,4.69,Apple Pay,Diamond,Yes
+RDR000705,Saad Al-Anazi,Male,6/21/2001,Saudi,Khobar,559996586,saad.alanazi82@email.com,4/15/2019,Active,3/10/2023,7,153.21,4.82,Credit Card,Silver,No
+RDR000706,Abdullah Al-Mahmoud,Male,12/6/1993,Egyptian,Mecca,574495536,abdullah.almahmoud5@email.com,4/19/2020,Active,3/10/2023,325,9962.42,3.6,Credit Card,Diamond,No
+RDR000707,Hanan Al-Dosari,Female,2/27/1991,Filipino,Dammam,593209926,hanan.aldosari92@email.com,5/27/2022,Active,3/10/2023,533,15840.16,4.29,Cash,Diamond,Yes
+RDR000708,Badr Al-Marri,Male,1/13/1992,Pakistani,Taif,532509513,badr.almarri48@email.com,4/13/2022,Active,3/10/2023,154,3640.16,4.62,Debit Card,Platinum,No
+RDR000709,Majed Al-Ahmadi,Male,6/27/1999,Filipino,Abha,529221670,majed.alahmadi83@email.com,3/9/2020,Active,3/10/2023,195,2966.44,4.75,Debit Card,Platinum,No
+RDR000710,Lama Al-Qahtani,Female,7/4/1986,Saudi,Dhahran,537374649,lama.alqahtani92@email.com,2/3/2019,Active,3/10/2023,533,16833.41,3.87,Apple Pay,Diamond,Yes
+RDR000711,Khalil Al-Faisal,Male,12/6/1986,Indian,Abha,553063605,khalil.alfaisal34@email.com,12/23/2019,Active,3/10/2023,182,6807.67,4.68,Apple Pay,Platinum,No
+RDR000712,Hind Al-Ali,Female,1/28/2002,Filipino,Mecca,522111010,hind.alali66@email.com,4/2/2023,Active,3/10/2023,585,23107.52,4.91,Apple Pay,Diamond,No
+RDR000713,Layan Al-Jasser,Female,9/30/1988,Saudi,Medina,596626846,layan.aljasser61@email.com,2/23/2020,Active,3/10/2023,563,11410.02,4.8,Mada,Diamond,Yes
+RDR000714,Faisal Al-Marri,Male,11/6/1993,Saudi,Medina,533158445,faisal.almarri20@email.com,5/1/2025,Active,3/10/2023,191,6169.19,4.94,Credit Card,Platinum,No
+RDR000715,Ziyad Al-Malki,Male,9/28/1979,Saudi,Jeddah,541711899,ziyad.almalki71@email.com,10/16/2023,Active,3/10/2023,674,21244.32,4.78,Credit Card,Diamond,No
+RDR000716,Bander Al-Hamdan,Male,8/24/1994,Saudi,Khobar,566086286,bander.alhamdan16@email.com,9/28/2021,Active,3/10/2023,554,16438.9,3.8,Cash,Diamond,No
+RDR000717,Wadha Al-Hassan,Female,1/28/1997,Filipino,Mecca,576856183,wadha.alhassan79@email.com,5/30/2023,Active,3/10/2023,21,765.76,4.36,Apple Pay,Silver,Yes
+RDR000718,Nada Al-Saud,Female,5/29/1997,Yemeni,Mecca,589979778,nada.alsaud60@email.com,5/27/2025,Active,3/10/2023,72,2721.05,3.74,Apple Pay,Gold,No
+RDR000719,Majed Al-Mohammed,Male,7/25/1997,Saudi,Khobar,530030597,majed.almohammed4@email.com,7/20/2020,Active,3/10/2023,572,22519.42,4.92,Cash,Diamond,No
+RDR000720,Nasser Al-Turki,Male,7/25/1996,Pakistani,Dhahran,575625144,nasser.alturki78@email.com,8/11/2019,Active,3/10/2023,178,6999.85,3.56,Credit Card,Platinum,No
+RDR000721,Nada Al-Sulaiman,Female,6/19/1984,Jordanian,Medina,518171310,nada.alsulaiman97@email.com,3/5/2023,Active,3/10/2023,366,14167.89,3.78,Mada,Diamond,No
+RDR000722,Faisal Al-Rashid,Male,9/22/1982,Egyptian,Dammam,524694269,faisal.alrashid59@email.com,5/22/2022,Active,3/10/2023,398,6762.92,4.47,Cash,Diamond,No
+RDR000723,Majed Al-Mazrou,Male,2/20/1982,Sudanese,Jeddah,556740994,majed.almazrou85@email.com,4/4/2019,Active,3/10/2023,659,10360.07,4.37,Mada,Diamond,No
+RDR000724,Mona Al-Ali,Female,8/8/1982,Jordanian,Dammam,573095299,mona.alali11@email.com,9/25/2024,Active,3/10/2023,627,13362.95,4.73,Credit Card,Diamond,Yes
+RDR000725,Yousef Al-Ghamdi,Male,5/28/2001,Saudi,Dhahran,571786427,yousef.alghamdi53@email.com,7/18/2019,Active,3/10/2023,750,21747.44,3.73,Debit Card,Diamond,No
+RDR000726,Khalid Al-Zahrani,Male,5/11/2000,Saudi,Tabuk,526234545,khalid.alzahrani80@email.com,1/1/2020,Active,3/10/2023,392,14366.85,4.1,Debit Card,Diamond,No
+RDR000727,Maha Al-Rajhi,Female,11/11/1998,Saudi,Abha,549407965,maha.alrajhi74@email.com,11/28/2023,Active,3/10/2023,203,4216.99,4.89,Mada,Platinum,Yes
+RDR000728,Ahmed Al-Ahmadi,Male,7/25/2000,Saudi,Taif,522093079,ahmed.alahmadi37@email.com,5/19/2022,Active,3/10/2023,107,1677.9,3.72,Apple Pay,Gold,No
+RDR000729,Maha Al-Rajhi,Female,8/14/1991,Saudi,Riyadh,512297122,maha.alrajhi76@email.com,6/19/2025,Active,3/10/2023,138,2871.73,3.73,Apple Pay,Gold,No
+RDR000730,Layan Al-Harbi,Female,4/23/1977,Filipino,Riyadh,576646894,layan.alharbi3@email.com,5/29/2021,Active,3/10/2023,583,22323.59,4.39,Debit Card,Diamond,Yes
+RDR000731,Reem Al-Ghamdi,Female,1/7/1992,Jordanian,Dammam,551197481,reem.alghamdi98@email.com,2/20/2021,Active,3/10/2023,368,15721.18,4.32,Cash,Diamond,Yes
+RDR000732,Ibrahim Al-Harbi,Male,12/10/2002,Egyptian,Mecca,592443394,ibrahim.alharbi21@email.com,4/16/2019,Active,3/10/2023,494,14513.38,4.9,Cash,Diamond,No
+RDR000733,Hind Al-Qahtani,Female,2/13/1989,Jordanian,Mecca,589297534,hind.alqahtani3@email.com,9/19/2025,Active,3/10/2023,454,12426.09,4.58,Credit Card,Diamond,Yes
+RDR000734,Rana Al-Rajhi,Female,2/16/1980,Yemeni,Khobar,511017031,rana.alrajhi29@email.com,12/5/2021,Active,3/10/2023,163,5873.87,4.74,Mada,Platinum,No
+RDR000735,Ali Al-Qahtani,Male,10/6/1979,Indian,Jeddah,559468104,ali.alqahtani55@email.com,3/11/2019,Active,3/10/2023,416,17385.17,4.93,Cash,Diamond,No
+RDR000736,Huda Al-Turki,Female,9/23/2000,Saudi,Taif,543726394,huda.alturki62@email.com,8/14/2025,Active,3/10/2023,357,14368.31,4.06,Cash,Diamond,Yes
+RDR000737,Anoud Al-Anazi,Female,12/18/2002,Saudi,Riyadh,537812524,anoud.alanazi4@email.com,3/28/2020,Inactive,8/26/2020,99,3879.11,3.68,Cash,Gold,No
+RDR000738,Ghada Al-Dosari,Female,4/22/1985,Saudi,Taif,583064458,ghada.aldosari2@email.com,6/21/2023,Active,3/10/2023,93,2837.02,4.23,Cash,Gold,No
+RDR000739,Nada Al-Dosari,Female,9/12/1999,Pakistani,Mecca,515697626,nada.aldosari53@email.com,8/24/2025,Inactive,7/9/2025,91,2601.59,3.59,Credit Card,Gold,Yes
+RDR000740,Ghada Al-Rajhi,Female,2/8/1996,Indian,Jeddah,550297070,ghada.alrajhi26@email.com,7/15/2019,Active,3/10/2023,295,11514.09,4.04,Cash,Platinum,Yes
+RDR000741,Mohammed Al-Rashid,Male,7/11/1992,Indian,Tabuk,567164456,mohammed.alrashid91@email.com,11/18/2023,Active,3/10/2023,545,15197.08,4.79,Mada,Diamond,No
+RDR000742,Wadha Al-Rashid,Female,6/24/1999,Filipino,Medina,564033353,wadha.alrashid21@email.com,5/8/2020,Active,3/10/2023,342,13569.73,3.8,Mada,Diamond,No
+RDR000743,Wafa Al-Anazi,Female,12/6/1984,Saudi,Dhahran,528551845,wafa.alanazi90@email.com,11/25/2023,Active,3/10/2023,81,3289.61,4.03,Credit Card,Gold,Yes
+RDR000744,Sami Al-Faisal,Male,6/3/2005,Saudi,Dhahran,516788404,sami.alfaisal58@email.com,10/10/2023,Active,3/10/2023,339,11070.19,4.44,Credit Card,Diamond,No
+RDR000745,Reem Al-Farsi,Female,9/14/1983,Saudi,Riyadh,585553948,reem.alfarsi97@email.com,3/22/2019,Active,3/10/2023,269,9683.47,4.38,Cash,Platinum,No
+RDR000746,Fatima Al-Hamdan,Female,2/25/1981,Pakistani,Medina,515086557,fatima.alhamdan76@email.com,9/27/2019,Active,3/10/2023,177,4235.41,3.56,Cash,Platinum,No
+RDR000747,Yara Al-Saif,Female,12/26/1981,Indian,Abha,526143430,yara.alsaif54@email.com,7/11/2024,Active,3/10/2023,664,17573.85,3.6,Cash,Diamond,Yes
+RDR000748,Rana Al-Shammari,Female,9/16/1986,Indian,Dhahran,586640725,rana.alshammari35@email.com,2/12/2020,Active,3/10/2023,497,11156.29,3.93,Credit Card,Diamond,No
+RDR000749,Raghad Al-Ahmadi,Female,5/10/2003,Filipino,Medina,569870230,raghad.alahmadi2@email.com,10/12/2024,Active,3/10/2023,610,10376.02,3.93,Cash,Diamond,No
+RDR000750,Dana Al-Anazi,Female,10/8/2000,Saudi,Mecca,521948440,dana.alanazi53@email.com,4/18/2019,Active,3/10/2023,53,882.33,4.27,Cash,Gold,Yes
+RDR000751,Ibrahim Al-Dosari,Male,10/29/1982,Pakistani,Abha,589923159,ibrahim.aldosari65@email.com,12/9/2019,Active,3/10/2023,701,29125.52,4.55,Cash,Diamond,No
+RDR000752,Lina Al-Zahrani,Female,5/21/1980,Filipino,Jeddah,548891821,lina.alzahrani85@email.com,12/26/2023,Active,3/10/2023,749,22654.65,4.75,Cash,Diamond,No
+RDR000753,Thamer Al-Farsi,Male,1/19/1985,Pakistani,Dammam,541291228,thamer.alfarsi74@email.com,12/31/2024,Active,3/10/2023,777,34565.37,3.68,Apple Pay,Diamond,No
+RDR000754,Nada Al-Saud,Female,3/10/1987,Egyptian,Abha,573521929,nada.alsaud86@email.com,12/7/2020,Inactive,2/27/2021,34,605.57,4.31,Cash,Silver,No
+RDR000755,Mishal Al-Mazrou,Male,9/11/2004,Saudi,Jeddah,578571606,mishal.almazrou64@email.com,5/11/2022,Active,3/10/2023,94,3311.64,4.65,Mada,Gold,No
+RDR000756,Dana Al-Saif,Female,7/6/1982,Yemeni,Dhahran,574040071,dana.alsaif86@email.com,4/11/2025,Active,3/10/2023,155,5279.56,4.2,Cash,Platinum,Yes
+RDR000757,Ghada Al-Zahrani,Female,6/28/2006,Indian,Dammam,584067785,ghada.alzahrani83@email.com,12/29/2019,Active,3/10/2023,434,9740.41,3.67,Cash,Diamond,Yes
+RDR000758,Hamad Al-Mansour,Male,5/30/1978,Yemeni,Khobar,563439886,hamad.almansour24@email.com,3/14/2020,Active,3/10/2023,472,11226.75,4.37,Mada,Diamond,No
+RDR000759,Ziyad Al-Baker,Male,3/17/1989,Saudi,Tabuk,545654227,ziyad.albaker58@email.com,3/22/2023,Active,3/10/2023,255,7739.51,4.58,Cash,Platinum,No
+RDR000760,Abdullah Al-Marri,Male,7/7/1992,Filipino,Riyadh,542636120,abdullah.almarri81@email.com,9/18/2020,Active,3/10/2023,105,2855.89,4.08,Debit Card,Gold,No
+RDR000761,Ahmed Al-Khalid,Male,3/29/1998,Filipino,Tabuk,515514729,ahmed.alkhalid56@email.com,6/28/2021,Active,3/10/2023,410,7840.75,4.3,Cash,Diamond,No
+RDR000762,Yara Al-Ali,Female,7/4/1980,Saudi,Mecca,521969785,yara.alali39@email.com,11/29/2024,Active,3/10/2023,590,10157.2,3.6,Credit Card,Diamond,No
+RDR000763,Ali Al-Sulaiman,Male,1/11/1998,Saudi,Tabuk,573768236,ali.alsulaiman93@email.com,10/30/2020,Active,3/10/2023,210,5718.08,4.57,Credit Card,Platinum,No
+RDR000764,Hamad Al-Ahmadi,Male,6/30/1990,Egyptian,Medina,512943511,hamad.alahmadi22@email.com,6/29/2019,Active,3/10/2023,329,8491.32,4.33,Credit Card,Diamond,No
+RDR000765,Shatha Al-Mohammed,Female,1/18/2007,Saudi,Mecca,548809347,shatha.almohammed36@email.com,12/9/2021,Active,3/10/2023,100,1584.76,4.14,Mada,Gold,Yes
+RDR000766,Huda Al-Ali,Female,4/27/1984,Filipino,Taif,583366250,huda.alali81@email.com,9/25/2019,Active,3/10/2023,130,2113.14,4.55,Cash,Gold,Yes
+RDR000767,Thamer Al-Kaabi,Male,4/10/1985,Saudi,Abha,540396847,thamer.alkaabi42@email.com,8/18/2020,Active,3/10/2023,82,2761.47,4.16,Cash,Gold,No
+RDR000768,Layan Al-Farsi,Female,2/11/1977,Filipino,Abha,563127076,layan.alfarsi90@email.com,9/26/2023,Active,3/10/2023,552,18523.11,4.43,Debit Card,Diamond,Yes
+RDR000769,Shatha Al-Mutairi,Female,7/3/2003,Saudi,Khobar,592369031,shatha.almutairi18@email.com,10/25/2022,Active,3/10/2023,322,11808.21,4.71,Credit Card,Diamond,No
+RDR000770,Khalil Al-Turki,Male,3/8/1987,Saudi,Medina,566704595,khalil.alturki88@email.com,4/12/2023,Active,3/10/2023,46,1694.91,4.03,Credit Card,Silver,No
+RDR000771,Thamer Al-Nasser,Male,5/18/1985,Filipino,Dhahran,544883904,thamer.alnasser42@email.com,7/11/2022,Active,3/10/2023,727,19026.79,4.47,Credit Card,Diamond,No
+RDR000772,Mishal Al-Mohammed,Male,1/24/1995,Pakistani,Riyadh,587895123,mishal.almohammed33@email.com,7/21/2019,Inactive,4/24/2023,84,1710.9,4.36,Debit Card,Gold,No
+RDR000773,Layan Al-Mansour,Female,10/20/1993,Jordanian,Dammam,545182600,layan.almansour21@email.com,3/30/2025,Active,3/10/2023,442,6820.35,4.25,Credit Card,Diamond,No
+RDR000774,Maram Al-Anazi,Female,11/4/1982,Indian,Khobar,551409041,maram.alanazi99@email.com,6/30/2024,Active,3/10/2023,349,8574.22,4.31,Credit Card,Diamond,Yes
+RDR000775,Badr Al-Shehri,Male,1/18/1980,Saudi,Medina,566201522,badr.alshehri44@email.com,2/22/2023,Active,3/10/2023,415,14947.45,4.81,Debit Card,Diamond,No
+RDR000776,Omar Al-Faisal,Male,4/19/1977,Yemeni,Khobar,567109058,omar.alfaisal21@email.com,10/8/2025,Active,3/10/2023,235,9556.81,4.89,Credit Card,Platinum,No
+RDR000777,Turki Al-Ghamdi,Male,5/3/1977,Yemeni,Dammam,573612281,turki.alghamdi40@email.com,1/11/2021,Active,3/10/2023,463,12518.17,4.14,Cash,Diamond,No
+RDR000778,Huda Al-Mansour,Female,10/3/1991,Pakistani,Riyadh,543715633,huda.almansour69@email.com,2/29/2020,Inactive,10/26/2021,91,3540.49,4.98,Credit Card,Gold,No
+RDR000779,Ahmed Al-Zamil,Male,7/28/1976,Indian,Riyadh,585004808,ahmed.alzamil17@email.com,3/19/2020,Active,3/10/2023,529,11043.68,4.97,Cash,Diamond,No
+RDR000780,Turki Al-Mazrou,Male,6/14/1988,Saudi,Tabuk,564834475,turki.almazrou34@email.com,1/7/2023,Active,3/10/2023,14,568.15,4.9,Apple Pay,Silver,No
+RDR000781,Huda Al-Ghamdi,Female,2/12/1993,Saudi,Jeddah,567724859,huda.alghamdi45@email.com,11/5/2020,Inactive,11/22/2023,33,1184.47,3.84,Cash,Silver,No
+RDR000782,Jasser Al-Jasser,Male,7/27/1994,Saudi,Khobar,526563259,jasser.aljasser86@email.com,11/22/2020,Active,3/10/2023,272,8629.14,4.92,Debit Card,Platinum,No
+RDR000783,Rashed Al-Farsi,Male,12/26/1991,Saudi,Khobar,597537746,rashed.alfarsi60@email.com,1/4/2022,Inactive,11/18/2025,55,1383.59,3.88,Mada,Gold,No
+RDR000784,Faisal Al-Harbi,Male,8/29/1995,Pakistani,Jeddah,592513920,faisal.alharbi98@email.com,7/27/2020,Active,3/10/2023,158,5860.91,4.9,Cash,Platinum,No
+RDR000785,Lama Al-Marri,Female,9/9/1979,Yemeni,Taif,532328144,lama.almarri63@email.com,6/19/2023,Active,3/10/2023,249,5002.82,4.5,Mada,Platinum,Yes
+RDR000786,Dana Al-Harbi,Female,4/1/1981,Jordanian,Taif,543143453,dana.alharbi6@email.com,12/19/2022,Active,3/10/2023,671,15196.74,4.31,Credit Card,Diamond,No
+RDR000787,Fahad Al-Mansour,Male,7/1/1996,Filipino,Tabuk,540794547,fahad.almansour43@email.com,7/29/2021,Active,3/10/2023,559,22602.11,4.25,Debit Card,Diamond,No
+RDR000788,Fatima Al-Otaibi,Female,6/17/2005,Jordanian,Jeddah,556350800,fatima.alotaibi23@email.com,10/9/2024,Inactive,5/20/2025,61,1425.3,4.26,Cash,Gold,Yes
+RDR000789,Wafa Al-Farsi,Female,8/1/1977,Saudi,Dhahran,573768377,wafa.alfarsi78@email.com,8/8/2019,Active,3/10/2023,216,7254.63,4.73,Apple Pay,Platinum,Yes
+RDR000790,Ahmed Al-Hamdan,Male,6/23/1985,Yemeni,Medina,544286827,ahmed.alhamdan69@email.com,9/6/2025,Active,3/10/2023,550,20383.13,4.18,Cash,Diamond,No
+RDR000791,Lina Al-Saif,Female,7/4/2002,Indian,Riyadh,524046439,lina.alsaif36@email.com,6/7/2022,Active,3/10/2023,323,12982.14,4.22,Mada,Diamond,No
+RDR000792,Layan Al-Hassan,Female,8/5/1976,Saudi,Riyadh,533492068,layan.alhassan35@email.com,1/2/2020,Active,3/10/2023,613,11626.18,4.31,Cash,Diamond,Yes
+RDR000793,Hamed Al-Malki,Male,6/26/1979,Yemeni,Abha,583780240,hamed.almalki64@email.com,8/22/2021,Active,3/10/2023,106,1685.67,3.73,Credit Card,Gold,No
+RDR000794,Majed Al-Ahmadi,Male,12/9/2000,Saudi,Abha,526257335,majed.alahmadi6@email.com,10/9/2024,Active,3/10/2023,729,28785.61,4.37,Debit Card,Diamond,No
+RDR000795,Turki Al-Hassan,Male,6/12/1991,Saudi,Mecca,516081352,turki.alhassan4@email.com,1/9/2019,Inactive,12/25/2022,67,2025.93,4.08,Cash,Gold,No
+RDR000796,Layan Al-Zahrani,Female,4/18/2004,Saudi,Riyadh,518282820,layan.alzahrani93@email.com,2/21/2025,Active,3/10/2023,303,6683.26,3.78,Cash,Diamond,Yes
+RDR000797,Amal Al-Mutairi,Female,9/9/1979,Saudi,Tabuk,536170767,amal.almutairi41@email.com,9/21/2024,Active,3/10/2023,495,12018.55,3.91,Cash,Diamond,No
+RDR000798,Rana Al-Otaibi,Female,4/13/2000,Saudi,Riyadh,559668381,rana.alotaibi36@email.com,3/24/2021,Active,3/10/2023,18,779.47,4.19,Cash,Silver,No
+RDR000799,Nada Al-Harbi,Female,12/22/1990,Jordanian,Khobar,546060619,nada.alharbi12@email.com,3/22/2019,Active,3/10/2023,48,826.31,4.15,Mada,Silver,No
+RDR000800,Razan Al-Saleh,Female,5/31/1988,Pakistani,Jeddah,553477284,razan.alsaleh13@email.com,1/5/2020,Active,3/10/2023,231,6228.85,4.98,Credit Card,Platinum,No
