@@ -23,7 +23,8 @@ The dashboard enables stakeholders to monitor revenue growth, trip activity, fle
 
 ### Operations & Revenue Overview
 
-![Operations Dashboard]([PASTE_IMAGE_LINK_1_HERE](https://github.com/AymenAli-Analyst/-Uber-Saudi-Operations-Intelligence-Dashboard/blob/main/1.png?raw=true))
+![Operations Dashboard](<img width="1172" height="644" alt="image" src="https://github.com/user-attachments/assets/0e3467d0-0387-40f3-aa9f-ff47122fa176" />
+)
 
 ### Driver Performance & Earnings
 
